@@ -15,7 +15,7 @@
 2 第二步：在搜索框内搜索关键字
 
 
-![image](https://github.com/taoran1998/-/tree/main/image)
+![image](https://github.com/taoran1998/-/blob/main/image/1.png)
 
 
 
