@@ -4,7 +4,7 @@
 
 %#===一、欢迎关注公众号：荔枝科研社====#%
 
-[荔枝科研社——回复关键字](https://blog.51cto.com/u_15739983/5570638)
+[荔枝科研社——回复关键字](https://mp.weixin.qq.com/s/YL9W4oM1csrmDafiKj8bnQ)
 
 
 
