@@ -3,6 +3,9 @@
 
 
 %#==一、欢迎关注公众号：荔枝科研社==#%
+#### [<1>Matlab代码运行基础文章讲解](http://t.csdn.cn/e9mVZ)
+#### [<2>文章搜索及文章讲解：](http://t.csdn.cn/spfxn)
+#### [<3>yalmip和cplex安装步骤(Matlab)](http://t.csdn.cn/Hig7a)
 
 
 ## 一、电气工程专栏
