@@ -100,7 +100,7 @@
 ##### [含分布式光伏的配电网集群划分和集群电压协调控制(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=TW3JIKMusP)
 ##### [基于SOE的随机配电网重构研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=C8ZZlXbdim)
 ##### [分布式电源接入对配电网影响的研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=F9yUgWX8xC)
-#####
+##### [基于贝叶斯推理估计稳态 （ST） 和非稳态 （NS） LPIII 模型分布拟合到峰值放电（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=eEcVmn3GaA)
 ## 1.8 机组组合
 ##### [【机组组合】基于Benders分解算法解决混合整数规划问题——机组组合问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=rptw6StLIl)
 
@@ -148,7 +148,7 @@
 ##### [基于人工大猩猩部队优化CNN-LSTM（GTO-CNN-LSTM）多变量时间序列预测（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=uX5qbZEPYl)
 ##### [基于北方苍鹰算法优化LSTM（NGO-LSTM）研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YGOzdtjuHz)
 ##### [基于麻雀算法优化的深度极限学习机DLM的预测算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=pE5AigISKD)
-#####
+##### [基于帝企鹅算法优化BP神经网络实现数据预测（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=IUmcFCCk6w)
 #####
 
 #####
