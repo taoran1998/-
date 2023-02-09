@@ -6,7 +6,7 @@
 
 
 ## 一、电气工程专栏
-## 1.1 综合能源、电力市场、需求响应、鲁棒优化系列
+## 1.1 综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
 ##### [考虑阶梯式碳交易与供需灵活双响应的综合能源系统优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Pf8LZdyP2A)
 ##### [考虑柔性负荷的综合能源系统低碳经济优化调度(考虑碳交易机制）（Matlab代码+数据+文章详细讲解）](https://ttaozhi.com/t/p.html?id=UxS68fynB8)
 ##### [【电力系统优化调度】计及源荷两侧不确定性的含风电电力系统低碳调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=uyFnsEsAG2)
@@ -37,6 +37,7 @@
 ##### [冷热电气多能互补的微能源网鲁棒优化调度(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=IdshXBfOrW)
 ##### [基于多能互补的热电联供型微网优化运行(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Kn0LiWkjj1)
 ##### [基于粒子群优化算法的冷热电联供型综合能源系统运行优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=TZsCKUhbqf)
+##### [计及电转气协同的含碳捕集与垃圾焚烧虚拟电厂优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=AC1KnrDftW)
 
 ## 1.2 微电网系列
 ##### [【微电网】基于改进粒子群算法的微电网优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=WDSYXslCu6)
@@ -45,6 +46,7 @@
 ##### [基于多目标粒子群算法的微电网优化调度【风、光、储能、柴油机、电网交互燃汽轮机】（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=1N9pio6q9L)
 ##### [微电网两阶段鲁棒优化经济调度方法[3]【升级优化版本】（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=LcWHA7n8Pn)
 ##### [【微电网】微电网的分布式电源优化配置研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=42FjVW6259)
+##### [含分布式发电的微电网中储能装置容量优化配置(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=ftsKcyDyOI)
 ##### [基于模型预测算法的混合储能微电网双层能量管理系统研究(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=ltWJXCNW5q)
 ##### [基于两阶段鲁棒优化算法的微网多电源容量配置(Matlab）](https://ttaozhi.com/t/p.html?id=aNWAK3lGpB)
 ##### [基于多能互补的热电联供型微网优化运行(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Kn0LiWkjj1)
@@ -70,6 +72,7 @@
 ##### [智能微电网研究（Python&Matlab代码实现）](https://ttaozhi.com/t/p.html?id=f0owC7cVmF)
 ##### [多微电网案例——分布式能源交易（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=SCfVBm9FaM)
 ##### [基于可再生能源的微电网研究（Simulink）](https://ttaozhi.com/t/p.html?id=rSo6pufpLC)
+##### [【水光互补优化调度】基于非支配排序遗传算法的多目标水光互补优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=SSvBePSA6B)
 ##### [基于改进的多目标粒子群算法的微电网多目标调度（三个目标函数）（matlab代码实现）](https://ttaozhi.com/t/p.html?id=kTamqxFzbG)
 
 ## 1.3 电动车、电化学系列
@@ -94,6 +97,8 @@
 ##### [分布式光伏发电计及气象因子及出力预测方法研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=I6nzFXCdll)
 ##### [车-电-路网时空分布负荷预测研究（Matlab代码）](https://ttaozhi.com/t/p.html?id=q8yXOzIlbz)
 ##### [基于麻雀搜索算法（SSA）优化长短期记忆神经网络参数SSA-LSTM冷、热、电负荷预测（Python代码实现）](https://ttaozhi.com/t/p.html?id=MM7DIBFfIi)
+##### [基于CNN-GRU-Attention混合神经网络的负荷预测方法（Python代码实现）](https://ttaozhi.com/t/p.html?id=D4LVpXdhdZ)
+##### [基于Adam算法优化GRU神经网络的短期负荷预测（Python代码实现）](https://ttaozhi.com/t/p.html?id=2pyOskaaCS)
 ##### [基于CNN-Lstm负荷预测（Python代码实现）](https://ttaozhi.com/t/p.html?id=bySKd0dz5O)
 ##### [基于CNN+BiLSTM+Attention的多维(多变量)时间序列预测（Python代码+数据）](https://ttaozhi.com/t/p.html?id=p5bqEad7xt)
 ##### [基于长短期记忆网络和凸优化算法的综合智能电网的可再生能源预测（Python代码实现）](https://ttaozhi.com/t/p.html?id=p1PoOQkAD2)
@@ -104,6 +109,7 @@
 ##### [电力系统短期负荷预测（Python代码+数据+详细文章讲解）](https://ttaozhi.com/t/p.html?id=liFGKY0WCa)
 ##### [【负荷预测】基于灰色理论负荷预测的应用研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=iHah6OAZTd)
 ##### [基于LSTM递归神经网络的多特征电能负荷预测（Python代码实现）](https://ttaozhi.com/t/p.html?id=ZD6438AGfI)
+
 
 ##### [拉丁超立方体抽样（LHS）研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=bh0C5hMpSd)
 ##### [【场景削减】拉丁超立方抽样方法场景削减（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=C80pMN8NhG)
@@ -143,9 +149,10 @@
 ##### [【课设/毕业设计】电力系统潮流计算（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=7wcGEPZarg)
 #####
 
-## 1.7 配电网系列
+## 1.7 配电网、分布式能源的选址与定容系列
 ##### [【配电网规划】配电网N-1扩展规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=4otYuOt3wB)
 ##### [基于遗传算法的配电网重构研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=bIq2Ro2s0Z)
+##### [最优孤岛划分下含分布式电源配电网可靠性评估（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=kGpPkeUaNx)
 ##### [改进粒子群算法的配电网故障定位(Matlab代码实现)](https://ttaozhi.com/t/p.html?id=QLA5uNBXHI)
 ##### [【网架规划】基于大M法和二阶锥的配电网网架规划（考虑线路功率约束、风光功率约束、变压器节点功率约束、节点电压、线路电流约束、二阶锥约束、线路电压平衡约束)【Matlab代码实现】](https://ttaozhi.com/t/p.html?id=akWvxQamhS)
 ##### [含分布式光伏的配电网集群划分和集群电压协调控制(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=TW3JIKMusP)
@@ -155,13 +162,16 @@
 ##### [【配电网规划】SOCPR和基于线性离散最优潮流（OPF）模型的配电网规划( DNP )（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=kHD4PKO1Lu)
 ##### [基于贝叶斯推理估计稳态 （ST） 和非稳态 （NS） LPIII 模型分布拟合到峰值放电（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=eEcVmn3GaA)
 
+##### [【分布式能源的选址与定容】基于多目标粒子群算法分布式电源选址定容规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=wNP0QicJK5)
+
 ## 1.8 机组组合
 ##### [【机组组合】基于Benders分解算法解决混合整数规划问题——机组组合问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=rptw6StLIl)
 
 ## 1.9 Simulink专栏
 ##### [基于可再生能源的微电网研究（Simulink）](https://ttaozhi.com/t/p.html?id=rSo6pufpLC)
 ##### [并网光伏发电系统（simulink仿真）](https://ttaozhi.com/t/p.html?id=AFMJrlQ7kJ)
-#####
+##### [分布式和可再生系统建模（simulink）](https://ttaozhi.com/t/p.html?id=7PpFSzjGIa)
+##### [电力系统——基于10机39节点的电力系统仿真（Matlab、Simulink）](https://ttaozhi.com/t/p.html?id=DkXJJ1JDaf)
 
 ## 1.10 电气期刊论文数据
 ##### [【电气数据】光伏数据](https://ttaozhi.com/t/p.html?id=VaZCI5j1hD)
@@ -209,7 +219,6 @@
 
 
 # 四、路径规划、机器人、背包问题专栏
-
 ##### [使用蚁群优化 （ACO） 解决背包问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=VPOFdLY2HS)
 ##### [基于蚁群算法的车辆路径规划问题的研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xwK0HGYqVr)
 ##### [车辆纵向动力学、加速性能和燃料消耗研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=4ZwujZdXDy)
@@ -229,6 +238,7 @@
 #####
 
 # 六、无人机、无人车
+##### [【无人机】四轴无人机的轨迹进行可视化和动画处理（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=pQN2TxKjrc)
 ##### [【无人机】无人机平台的非移动 GPS 干扰器进行位置估计的多种传感器融合算法的性能分析（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=SyNqABCadX)
 ##### [【无人机】回波状态网络（ESN）在固定翼无人机非线性控制中的应用（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=6OkdnA4R3f)
 ##### [【无人机路径规划】基于IRM和RRTstar进行无人机路径规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=ugQxVS4tHh)
