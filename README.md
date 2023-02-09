@@ -147,6 +147,8 @@
 ##### [【配电网规划】配电网N-1扩展规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=4otYuOt3wB)
 ##### [基于遗传算法的配电网重构研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=bIq2Ro2s0Z)
 ##### [改进粒子群算法的配电网故障定位(Matlab代码实现)](https://ttaozhi.com/t/p.html?id=QLA5uNBXHI)
+##### [【网架规划】基于大M法和二阶锥的配电网网架规划（考虑线路功率约束、风光功率约束、变压器节点功率约束、节点电压、线路电流约束、二阶锥约束、线路电压平衡约束)(Matlab代码实现)
+](https://ttaozhi.com/t/p.html?id=akWvxQamhS)
 ##### [含分布式光伏的配电网集群划分和集群电压协调控制(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=TW3JIKMusP)
 ##### [基于二阶锥规划的主动配电网最优潮流求解（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=fH3gcQCDWF)
 ##### [基于SOE的随机配电网重构研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=C8ZZlXbdim)
