@@ -44,6 +44,7 @@
 ##### [【可再生能源场景生成】使用生成对抗性网络的数据驱动场景生成方法研究(该方法基于两个互连的深度神经网络与基于概率模型的现有方法相比)(Python代码实现)](https://ttaozhi.com/t/p.html?id=7KHOpXmm5i)
 ##### [考虑电能交互的冷热电区域多微网系统双层多场景协同优化配置（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=2jOykcqU5e)
 ##### [【可再生能源】可再生资源整合的电网集成研究(Matlab代码实现)](https://ttaozhi.com/t/p.html?id=fcjixlZCWY)
+##### [【微电网优化调度】目标最小化微电网成本，由太阳能电池板阵列和储能系统组成（Python代码实现）](https://ttaozhi.com/t/p.html?id=GP49ERGOcI)
 
 ## 1.3 电动车系列
 ##### [考虑电动汽车灵活性的微网多时间尺度协调调度研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=9I6OijDhke)
@@ -71,9 +72,13 @@
 ##### [【状态估计】基于二进制粒子群优化 （BPSO） 求解最佳 PMU优化配置研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=sKY6guK0RL)
 ##### [【PMU】基于两种模拟退火方法、两种图论过程和递归安全N算法六种算法的最优PMU布置（OPP）研究（Matlab代码实现](https://ttaozhi.com/t/p.html?id=WEQzTPo3r0)
 ##### [基于离散时间频率增益传感器的P级至M级PMU模型的实现（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=VpntVRS8HA)
+##### [基于ILP的最优PMU放置优化研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=7L7VqEHmKt)
+##### [使用 PMU（相量测量单元）进行电力系统状态估计(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=iOm1EBj2Rw)
 #####
-# 1.6 经济调度系列
 #####
+
+# 1.6 经济调度、无功优化系列
+##### [【无功优化】考虑泄流效应的光伏并网点电压系统侧无功优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=BEm1GldjWT)
 #####
 #####
 #####
@@ -115,11 +120,11 @@
 ##### [【单目标优化算法】食肉植物优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=SoqsqfVSZP)
 ##### [【单目标优化算法】樽海鞘群算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=WJ0f6mpSDv)
 ##### [【单目标优化算法】狐狸优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YjFV4gEWL3)
-#####
+##### [基于启发式蝙蝠算法、粒子群算法、花轮询算法和布谷鸟搜索算法的换热器PI控制器优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=ZoqrnZ0lQi)
 ## 2.2 改进单目标系列
 ##### [【改进粒子群优化算法】增强型二元粒子群优化 （BPSO）算法【具有 6 个新的传递函数】（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=d6LDRghd1L)
 ##### [【改进灰狼优化算法】混沌灰狼优化算法(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=pWDW1qvzmb)
-#####
+##### [基于自适应惯性权重的粒子群优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xdhnvQkBkD)
 #####
 
 #####
@@ -157,13 +162,13 @@
 #####
 #####
 
-# 四、路径规划专栏、背包问题
+# 四、路径规划、机器人、背包问题专栏
 
 ##### [【z】使用蚁群优化 （ACO） 解决背包问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=VPOFdLY2HS)
-#####
-#####
-#####
-#####
+##### [基于蚁群算法的车辆路径规划问题的研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xwK0HGYqVr)
+##### [【z】车辆纵向动力学、加速性能和燃料消耗研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=4ZwujZdXDy)
+##### [基于DWA算法的机器人路径规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Gmwj4zJ9gh)
+##### [四自由度机械臂的轨迹规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=2FLwmKzCRV)
 
 #####
 #####
@@ -175,12 +180,12 @@
 #####
 #####
 
-# 六、车间调度专栏
+# 六、车间调度、车辆调度专栏
 #####
 #####
 
 #####
-#####
+##### [【z】基于蚁群算法的多配送中心的车辆调度问题的研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=yUYgNWAayZ)
 #####
 #####
 
@@ -189,6 +194,9 @@
 ##### [【无人机】回波状态网络（ESN）在固定翼无人机非线性控制中的应用（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=6OkdnA4R3f)
 ##### [【无人车】用于无人地面车辆的路径跟踪算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=e4ikFiMCOX)
 ##### [【无人车】无人驾驶地面车辆避障研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=c0NUvHdNeJ)
+##### [【无人机路径规划】基于深度强化学习的多无人机辅助边缘计算网络路径规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=AGjlMUOd2E)
+##### [【无人机】考虑有效载荷功率的太阳能无人机研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Qov2w1PdNG)
+##### [【无人车】无人驾驶车辆模型预测控制（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=zVusRFEa9j)
 # 七、图片处理专栏
 #####
 #####
@@ -216,15 +224,15 @@
 
 
 
-# 九、信号处理专栏
+# 九、信号处理、雷达、灵敏性分享专栏
 
 ##### [使用傅里叶级数展开法从谐波的和中产生方波（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=wwGpntS210)
 ##### [周期矩形波的傅里叶级数展开（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=BeGrYHwJYD)
 ##### [多孔弹性材料中传播的膨胀波方法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=PdLUFvXCW6)
-#####
-#####
-#####
-#####
+##### [基于MATLAB中雷达和视觉合成数据的目标级传感器融合（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=fzWBnV9AVp)
+##### [L和S波段SAR信号穿透深度评估（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=bdAYnpTPXS)
+##### [用于灵敏性分析的方法模型（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=bDi2t6bQrD)
+##### [用于从单细胞FRET数据中提取灵敏度分布（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=8FhurnxsDb)
 #####
 #####
 
@@ -233,79 +241,20 @@
 #####
 
 # 十、语音处理专栏
-#####
-#####
-#####
-#####
-
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
+##### [语音处理(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=3z7QiwqUcG)
 #####
 #####
 #####
 
 
 # 十一、物理应用专栏
+##### [使用x射线与大块材料中原子相互作用的基本理论模拟相对强度XRD图案（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=KtrxnINrQp)
+##### [使用标量衍射理论和菲涅耳和弗劳恩霍夫衍射的衍射对波动光学进行建模（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=meoLqD1We9)
+##### [基于透镜傅里叶变换特性的4F相关器系统的Matlab仿真(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=18oigOzr0b)
+##### [【z】热交换器及一维平行流换热器分析（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=6jjcXg3Lzs)
 #####
 #####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
-#####
+
 
 
 
