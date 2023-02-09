@@ -3,6 +3,11 @@
 
 
 %#==一、欢迎关注公众号：荔枝科研社==#%
+### [【1】微信公众号：](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
+### [【3】知乎：](https://www.zhihu.com/people/qing-si-wei-shui-wu)
+### [【3】阿里云：](https://developer.aliyun.com/profile/vnux7hrgeze4y?spm=a2c6h.12873639.article-detail.65.1de05e6c9JrK9Q)
+### [【4】51CTO博客：](https://blog.51cto.com/u_15739983)
+### [【5】CSDN：](https://blog.csdn.net/weixin_46039719?type=blog)
 #### [<1>Matlab代码运行基础文章讲解](http://t.csdn.cn/e9mVZ)
 #### [<2>文章搜索及文章讲解：](http://t.csdn.cn/spfxn)
 #### [<3>yalmip和cplex安装步骤(Matlab)](http://t.csdn.cn/Hig7a)
