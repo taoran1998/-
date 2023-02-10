@@ -249,6 +249,7 @@
 ##### [基于粒子群优化算法的最优潮流（IEEE30节点（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=RMiawNShor)
 ##### [电力系统潮流计算（牛顿-拉夫逊法、高斯-赛德尔法、快速解耦法）【6节点 9节点 14节点 26节点 30节点 57节点】](https://ttaozhi.com/t/p.html?id=Ly0sQNKzk8)
 ##### [潮流仿真（Matlab and PowerWord)](https://ttaozhi.com/t/p.html?id=A0hacSzzXo)
+##### [内点法求最优潮流（Matlab实现）](https://ttaozhi.com/t/p.html?id=yhgEJEq5Ct)
 ##### [配电网前推后带法求电力系统潮流（Python&Matlab实现）](https://ttaozhi.com/t/p.html?id=8ERkewrKmi)
 ##### [基于遗传算法和粒子群算法的潮流计算比较（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=9kkf2wbOBV)
 ##### [电力系统的延时功率流 （CPF）的计算【 IEEE-14 节点】（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=XkRMAiyE7S)
