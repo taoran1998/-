@@ -85,6 +85,7 @@
 
 ##### [多微网优化调度（风机、光伏、蓄电池、燃料电池、柴油机、电网交互）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=LfZKnXYIpM)
 ##### [多微电网及分布式能源交易（MAtlab代码实现）](https://ttaozhi.com/t/p.html?id=orGP950uAc)
+##### [基于非对称纳什谈判的多微网电能共享运行优化策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a541b9999.pg1)
 
 ##### [微电网经济优化运行（光伏、储能、柴油机）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=ZLNcP5bWqa)
 ##### [含电热联合系统的微电网运行优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=A62zoe5tBU)
