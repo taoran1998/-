@@ -46,6 +46,7 @@
 ##### [【电力系统综合能源】“双碳"背景下|综合能源系统中的经济-二氧化碳排放协调最优调度和敏感性分析研究（Matlab代码实现](https://ttaozhi.com/t/p.html?id=JqyyQlIYO5)
 ##### [考虑特性分布的储能电站接入的电网多时间尺度源储荷协调调度策略（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=WEnVAiSZdL)
 ##### [计及碳捕集电厂低碳特性的含风电电力系统源–荷多时间尺度调度方法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=d2veABpHy9)
+##### [基于非对称纳什谈判的多微网电能共享运行优化策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a541b9999.pg1)
 ##### [含冰蓄冷空调的冷热电联供型微网多时间尺度优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=m0G3co6CSN)
 ##### [冷热电气多能互补的微能源网鲁棒优化调度(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=IdshXBfOrW)
 ##### [计及碳排放成本的电-气-热综合能源系纷充节点能价计算方法研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YXvO9v6Gr6)
