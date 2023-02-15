@@ -122,11 +122,12 @@
 ##### [智能电网优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=nIsSrN84Br)
 ##### [智能微电网研究（Python&Matlab代码实现）](https://ttaozhi.com/t/p.html?id=f0owC7cVmF)
 
-## 1.3 电动车、电化学系列
+## 1.3 电动车、抽水蓄能、电化学系列
 ##### [考虑电动汽车灵活性的微网多时间尺度协调调度研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=9I6OijDhke)
 ##### [基于 V2G 技术的电动汽车实时调度策略（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=4yln20DT36)
 ##### [【电动车】基于多目标优化遗传算法NSGAII的峰谷分时电价引导下的电动汽车充电负荷优化研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=UJWP6nzV1x)
 ##### [基于蒙特卡洛的电动车有序充放电（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=04pwEYRpms)
+##### [基于粒子群优化算法的电动汽车充放电V2G研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=EZuBpJsm9G)
 ##### [【电动车】电动汽车两阶段优化调度策略（Matlab代码+数据+文章详细讲解）](https://ttaozhi.com/t/p.html?id=J52KtO8RrM)
 ##### [【电动汽车充电站有序充电调度的分散式优化】基于蒙特卡诺和拉格朗日的电动汽车优化调度（分时电价调度）（Matlab代码实现](https://ttaozhi.com/t/p.html?id=U7ZNuI31OB)
 ##### [基于主从博弈的智能小区代理商定价策略及电动汽车充电管理（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=lP2ZMYrdTC)
@@ -145,6 +146,8 @@
 ##### [电动汽车电池换电站选址与定容（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=4gjqyLEmwB)
 ##### [Matlab|模拟电动汽车的充放电【充电顺序，波动发电，电池缓冲】](https://ttaozhi.com/t/p.html?id=uiIFHCHNUg)
 ##### [Matlab|基于粒子群优化算法及鲁棒MPPT控制器提高光伏并网的效率](https://ttaozhi.com/t/p.html?id=QdubXyT48Q)
+
+##### [【抽水蓄能电站】基于粒子群优化算法的抽水蓄能电站的最佳调度方案研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=8eTA2AAEfr)
 
 ##### [二氧化碳捕获和电化学转化（Python代码实现）](https://ttaozhi.com/t/p.html?id=khSkYwVxfg)
 ##### [基于卡尔曼滤波的SOC估算锂离子电池优化（Matlab代码+数据+文章讲解）](https://ttaozhi.com/t/p.html?id=oiYYN4QL8Q)
@@ -332,6 +335,7 @@
 ## 2.2 改进单目标系列
 ##### [【改进粒子群优化算法】增强型二元粒子群优化 （BPSO）算法【具有 6 个新的传递函数】（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=d6LDRghd1L)
 ##### [【改进灰狼优化算法】混沌灰狼优化算法(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=pWDW1qvzmb)
+##### [【改进粒子群优化算法】基于惯性权重和学习因子动态调整的粒子群算法【期刊论文复现】（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xDGeMQcvSg)
 ##### [基于自适应惯性权重的粒子群优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xdhnvQkBkD)
 ##### [混合灰狼和杜鹃搜索优化算法(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=cIJHmS2CoK)
 ##### [贪婪的非分层灰狼优化算法（G-NHGWO）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=GNCuIiwy80)
@@ -400,6 +404,8 @@
 # 五、车间调度、车辆调度专栏
 ##### [基于遗传算法的柔性车间调度优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=mZCiWsjzjd)
 ##### [基于改进遗传算法的柔性车间调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=OKJ12N6hBY)
+##### [基于蚂蚁优化算法的柔性车间调度研究（Python代码实现）](https://ttaozhi.com/t/p.html?id=qYUTqJ7JMx)
+##### [基于遗传算法的柔性生产调度研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=MJE3wNxrZt)
 ##### [改进差分进化算法及其求解柔性作业车间调度问题（Python代码实现）](https://ttaozhi.com/t/p.html?id=lzo0c9LPA9)
 ##### [【车间调度】基于全球邻域和爬坡来优化模糊柔性作业车间调度问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=BiRFpXrZdl)
 ##### [基于改进的离散PSO算法的FJSP的研究（Python代码实现）](https://ttaozhi.com/t/p.html?id=es9B98djCP)
