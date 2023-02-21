@@ -298,8 +298,8 @@
 
 ## 1.7 配电网、分布式能源的选址与定容系列
 ##### [【配电网规划】配电网N-1扩展规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=4otYuOt3wB)
-##### [分布式电源对配电网故障定位的影响（Python代码实现）](https://ttaozhi.com/t/p.html?id=Sq8epT22Xe)(https://ttaozhi.com/t/p.html?id=kU075Y4MMg)
-##### [基于遗传算法的配电网故障定位(Matlab代码实现）]
+##### [分布式电源对配电网故障定位的影响（Python代码实现）](https://ttaozhi.com/t/p.html?id=Sq8epT22Xe)
+##### [基于遗传算法的配电网故障定位(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=kU075Y4MMg)
 ##### [基于遗传算法的配电网重构研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=bIq2Ro2s0Z)
 ##### [最优孤岛划分下含分布式电源配电网可靠性评估（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=kGpPkeUaNx)
 ##### [改进粒子群算法的配电网故障定位(Matlab代码实现)](https://ttaozhi.com/t/p.html?id=QLA5uNBXHI)
