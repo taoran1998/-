@@ -349,6 +349,7 @@
 ##### [【数据】电负荷、热负荷、光伏、风能数据](https://ttaozhi.com/t/p.html?id=aQzOBPujRg)
 ##### [IEEE123节点数据](https://ttaozhi.com/t/p.html?id=rBEGU9m4Z0)
 ##### [电气数据IEEE118（含风能太阳能）](https://ttaozhi.com/t/p.html?id=zZNwSATATx)
+##### [法国某家庭真实用电负荷数据](https://bs.97ta.xyz/p.php?8tp=t1.9681a704b1.pg0)
 
 
 # 二、智能优化算法、优化调度专栏
