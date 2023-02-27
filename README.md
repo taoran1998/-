@@ -99,9 +99,8 @@
 ##### [计及需求响应的基于改进天牛须算法算法的孤岛微电网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a778b9999.pg1)
 ##### [考虑电动汽车灵活性的微网多时间尺度协调调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a779b8888.pg1)
 ##### [基于储能电站服务的冷热电多微网系统双层优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a780b9999.pg1)
-##### [含冰蓄冷空调的冷热电联供型微网多时间尺度优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=m0G3co6CSN)
 ##### [含冰蓄冷空调的冷热电联供型微网多时间尺度优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a736b9999.pg1)
-##### [基于多时间尺度滚动优化的多能源微网双层调度研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=rTPoJ89kfb)
+##### [基于多时间尺度滚动优化的多能源微网双层调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a724b11999.pg1)
 
 ##### [计及调峰主动性的风、光、水、火、储多能系统互补协调优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xpeuAt5hGg)
 ##### [【水光互补优化调度】基于非支配排序遗传算法的多目标水光互补优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=SSvBePSA6B)
