@@ -136,11 +136,11 @@
 ##### [基于卡尔曼滤波的微电网调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a806b8888.pg1)
 ##### [改进遗传算法优化微电网调度（考虑环境）(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a807b5666.pg1)
 
-##### [MATLB|基于粒子群优化算法的智能微电网调度（含风、光、微型燃气轮机、电网输入微网、储能）](https://ttaozhi.com/t/p.html?id=7VGkOyORxD)
-##### [【智能电网随机调度】智能电网的双层模型时间尺度随机调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=4i2U1tL95C)
-##### [【智能电网】分数阶微积分在决策系统中的应用，通过决策树实现智能电网管理（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=XOh45v9fjB)
-##### [智能电网中需求响应研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=iOsdAp0LDW)
-##### [智能电网优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=nIsSrN84Br)
+##### [MATLB|基于粒子群优化算法的智能微电网调度（含风、光、微型燃气轮机、电网输入微网、储能）](https://bs.97ta.xyz/p.php?8tp=t1.9681a808b4566.pg1)
+##### [【智能电网随机调度】智能电网的双层模型时间尺度随机调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a809b6666.pg1)
+##### [【智能电网】分数阶微积分在决策系统中的应用，通过决策树实现智能电网管理（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a810b4566.pg1)
+##### [智能电网中需求响应研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a811b3665.pg1)
+##### [智能电网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a812b4500.pg1)
 ##### [智能微电网研究（Python&Matlab代码实现）](https://ttaozhi.com/t/p.html?id=f0owC7cVmF)
 
 ## 1.3 电动车、抽水蓄能、电化学系列
