@@ -13,6 +13,7 @@
 ##### [<2>文章搜索及文章讲解：](http://t.csdn.cn/spfxn)
 ##### [<3>yalmip和cplex安装步骤(Matlab)](http://t.csdn.cn/Hig7a)
 
+### [完整代码下载步骤](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
 
 ## 一、电气工程专栏
 ## 1.1 综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
@@ -224,25 +225,25 @@
 
 
 ## 1.5 状态估计、非侵入式负荷系列
-##### [【状态估计】基于随机方法优化PMU优化配置（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=nwiBInQCYw)
-##### [【状态估计】基于PMU的多回路配电系统状态估计（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=wswnNKVy3I)
-##### [状态估计|基于 MMSE 的分析估计器的不确定电力系统分析（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=jd4R13lmnz)
-##### [【状态估计】基于二进制粒子群优化 （BPSO） 求解最佳 PMU优化配置研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=sKY6guK0RL)
-##### [改进的粒子滤波算法及其应用研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=mVfKpFKDEf)
-##### [【PMU】基于两种模拟退火方法、两种图论过程和递归安全N算法六种算法的最优PMU布置（OPP）研究（Matlab代码实现](https://ttaozhi.com/t/p.html?id=WEQzTPo3r0)
-##### [【状态估计】电力系统状态估计中的异常检测与分类（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=RLyzWnFBbA)
-##### [基于离散时间频率增益传感器的P级至M级PMU模型的实现（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=VpntVRS8HA)
-##### [基于ILP的最优PMU放置优化研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=7L7VqEHmKt)
-##### [使用 PMU（相量测量单元）进行电力系统状态估计(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=iOm1EBj2Rw)
-##### [具有梯度流的一类系统的扩散图卡尔曼滤波（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=IwHjsCpiNn)
-##### [【状态估计】将变压器和LSTM与卡尔曼滤波器结合到EM算法中进行状态估计（Python代码实现）](https://ttaozhi.com/t/p.html?id=TZr5NKGlMr)
-##### [卡尔曼（Kalman）滤波（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=guVHZoQpGh)
-##### [配电网PMU优化配置与状态估计（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=BMUJA3q7Gv)
-##### [基于卡尔曼滤波的SOC估算锂离子电池优化（Matlab代码+数据+文章讲解）](https://ttaozhi.com/t/p.html?id=oiYYN4QL8Q)
-##### [配电网的故障诊断（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=0gMZmpQF7u)
+##### [【状态估计】基于随机方法优化PMU优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a869b6666.pg1)
+##### [【状态估计】基于PMU的多回路配电系统状态估计（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a870b5666.pg1)
+##### [状态估计|基于 MMSE 的分析估计器的不确定电力系统分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a871b9999.pg1)
+##### [【状态估计】基于二进制粒子群优化 （BPSO） 求解最佳 PMU优化配置研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a872b6666.pg1)
+##### [改进的粒子滤波算法及其应用研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a873b8888.pg1)
+##### [【PMU】基于两种模拟退火方法、两种图论过程和递归安全N算法六种算法的最优PMU布置（OPP）研究（Matlab代码实现](https://bs.97ta.xyz/p.php?8tp=t1.9681a874b6666.pg1)
+##### [【状态估计】电力系统状态估计中的异常检测与分类（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a875b8888.pg1)
+##### [基于离散时间频率增益传感器的P级至M级PMU模型的实现（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a876b6666.pg1)
+##### [基于ILP的最优PMU放置优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a877b5666.pg1)
+##### [使用 PMU（相量测量单元）进行电力系统状态估计(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a878b8888.pg1)
+##### [具有梯度流的一类系统的扩散图卡尔曼滤波（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a879b8888.pg1)
+##### [【状态估计】将变压器和LSTM与卡尔曼滤波器结合到EM算法中进行状态估计（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a880b9999.pg1)
+##### [卡尔曼（Kalman）滤波（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a881b6666.pg1)
+##### [配电网PMU优化配置与状态估计（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a882b8888.pg1)
+##### [基于卡尔曼滤波的SOC估算锂离子电池优化（Matlab代码+数据+文章讲解）](https://bs.97ta.xyz/p.php?8tp=t1.9681a884b9999.pg1)
+##### [配电网的故障诊断（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a885b6666.pg1)
 
-##### [【非侵入式负载监测】低采样率电动汽车充电的无训练非侵入式负载监测（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=zOq9QUoFZi)
-##### [基于KPCA 和 STFT 非侵入式负荷监控（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=4noyCGXCCB)
+##### [【非侵入式负载监测】低采样率电动汽车充电的无训练非侵入式负载监测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a867b8888.pg1)
+##### [基于KPCA 和 STFT 非侵入式负荷监控（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a868b8888.pg1)
 
 # 1.6 经济调度、无功优化、Copula系列
 ##### [多元宇宙算法及其在电力系统环境经济调度的应用（Matlab实现）](https://mbd.pub/o/bread/mbd-YpuWmJxr)
@@ -353,6 +354,7 @@
 
 
 # 二、智能优化算法、优化调度专栏
+### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
 ## 2.1 单目标系列
 ##### [【单目标优化算法】杂草优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=WCBz3EBKQa)
 ##### [【单目标优化算法】蜣螂优化算法（Dung beetle optimizer，DBO）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YXgQPeGJHy)
@@ -387,6 +389,7 @@
 ##### [基于模拟退火优化算法求解船舶优化调度问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=QAi2LOLhSv)
 
 # 三、机器学习、神经网络预测与分类专栏
+### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
 ##### [基于多尺度集成极限学习机回归（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=GC84WlnCoG)
 ##### [基于随机森林实现特征选择降维及回归预测（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=vh3V38sAte)
 ##### [随机分布式延迟PSO（RODDPSO）+K-Means算法（Python代码实现）](https://ttaozhi.com/t/p.html?id=yeMIZshFZt)
@@ -417,6 +420,7 @@
 
 
 # 四、路径规划、机器人、背包问题专栏
+### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
 ##### [使用蚁群优化 （ACO） 解决背包问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=VPOFdLY2HS)
 ##### [基于蚁群算法的车辆路径规划问题的研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xwK0HGYqVr)
 ##### [基于麻雀优化算法的路径优化问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=KjawcCdjgx)
@@ -437,6 +441,7 @@
 ##### [【无人机】四旋翼飞行器控制、路径规划和轨迹优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=auqq6UHjiG)
 
 # 五、车间调度、车辆调度专栏
+### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
 ##### [基于遗传算法的柔性车间调度优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=mZCiWsjzjd)
 ##### [基于改进遗传算法的柔性车间调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=OKJ12N6hBY)
 ##### [基于蚂蚁优化算法的柔性车间调度研究（Python代码实现）](https://ttaozhi.com/t/p.html?id=qYUTqJ7JMx)
@@ -455,6 +460,7 @@
 ##### [基于模拟退火 (SA)求解车辆配送 （VPR） (Matlab代码实现） ](https://ttaozhi.com/t/p.html?id=KxbJIWxhcK)
 
 # 六、无人机、无人车
+### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
 ##### [【无人机】四轴无人机的轨迹进行可视化和动画处理（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=pQN2TxKjrc)
 ##### [基于改进粒子群优化算法的UAV三维路径规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=DhB0Keza8j)
 ##### [改进粒子滤波的无人机三维航迹预测方法(Matlab代码实现)](https://ttaozhi.com/t/p.html?id=te8OAYhv92)
