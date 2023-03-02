@@ -78,6 +78,7 @@
 ##### [【价格型需求响应】基于Logistic函数的负荷转移率模型需求响应研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a760b4566.pg1)
 ##### [【需求响应】基于数据驱动的需求响应优化及预测研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a886b8888.pg1)
 ##### [分时电价环境下用户负荷需求响应分析方法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a761b6666.pg1)
+##### [温控负荷的需求响应潜力评估及其协同优化管理研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a927b6666.pg1)
 ##### [基于数据驱动的智能空调系统需求响应可控潜力评估研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a762b8888.pg1)
 
 
@@ -97,6 +98,7 @@
 ##### [基于两阶段鲁棒优化算法的微网多电源容量配置(Matlab）](https://bs.97ta.xyz/p.php?8tp=t3.9681a891b8888.pg1)
 ##### [基于多能互补的热电联供型微网优化运行(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a775b8888.pg1)
 ##### [冷热电气多能互补的微能源网鲁棒优化调度(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a776b9999.pg1)
+##### [基于改进雷达图模型的热电联供型微网系统多目标优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a925b11999.pg1)
 ##### [微电网两阶段鲁棒优化问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=PrCpPOYWxN)
 ##### [微电网两阶段鲁棒优化经济调度方法[2]（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=voVZug3bT3)
 ##### [微电网两阶段鲁棒优化经济调度方法[3]【升级优化版本】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a777b9999.pg1)
@@ -185,7 +187,7 @@
 ##### [集成抽水蓄能反渗透系统优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a898b9999.pg1)
 ##### [基于优化的启发式集成低能耗自适应集群层次结构协议（OHILEACH）（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a899b8888.pg1)
 ##### [磁实验比较-反激式变压器（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a900b9999.pg1)
-##### [太阳能电池输出预测（Matlab和Python）](https://ttaozhi.com/t/p.html?id=rNmxFVo8KQ)
+##### [太阳能电池输出预测（Matlab和Python）](https://bs.97ta.xyz/p.php?8tp=t2.9681a912b6666.pg1)
 
 ## 1.4 负荷预测、场景削减系列
 ##### [LSTM对比Bi-LSTM的电力负荷时间序列预测](https://bs.97ta.xyz/p.php?8tp=t4.9681a838b6666.pg1)
@@ -305,6 +307,7 @@
 ## 1.7 配电网、分布式能源的选址与定容系列
 ##### [【配电网规划】配电网N-1扩展规划研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a904b6666.pg1)
 ##### [分布式电源对配电网故障定位的影响（Python代码实现）](https://mbd.pub/o/bread/mbd-YpyVkplq)
+##### [考虑分布式电源运行特性的有源配电网智能软开关SOP规划方法【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a926b8888.pg1)
 ##### [基于遗传算法的配电网故障定位(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a902b6666.pg1)
 ##### [【故障定位】基于粒子群优化算法的故障定位及故障区段研究【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a906b7666.pg1)
 ##### [基于遗传算法的配电网重构研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a903b7666.pg1)
@@ -353,7 +356,7 @@
 ##### [【数据下载】光伏数据（电气期刊论文）](https://ttaozhi.com/t/p.html?id=ZT0s845AcU)
 ##### [【电气数据】风电数据](https://ttaozhi.com/t/p.html?id=mDaIKWjsVi)
 ##### [【电气数据】IEEE、BPA潮流计算标准算例数据-专业指导文档类资源](https://ttaozhi.com/t/p.html?id=ZZKI2VHOFh)
-##### [【电气数据】10机39节点数据及接线图](https://ttaozhi.com/t/p.html?id=6HfHcPg0RX)
+##### [【电气数据】10机39节点数据及接线图](https://bs.97ta.xyz/p.php?8tp=t3.9681a913b3999.pg1)
 ##### [【数据】电负荷、热负荷、光伏、风能数据](https://ttaozhi.com/t/p.html?id=aQzOBPujRg)
 ##### [IEEE123节点数据](https://ttaozhi.com/t/p.html?id=rBEGU9m4Z0)
 ##### [电气数据IEEE118（含风能太阳能）](https://ttaozhi.com/t/p.html?id=zZNwSATATx)
@@ -375,30 +378,30 @@
 ##### [加权黑猩猩优化算法（WChOA）（Matlab代码实现）【与ChOA、PSO、WOA、BH、ALO、GA和GWO算法比较](https://ttaozhi.com/t/p.html?id=gzQKGkJgyF)
 
 ## 2.2 改进单目标系列
-##### [【改进粒子群优化算法】增强型二元粒子群优化 （BPSO）算法【具有 6 个新的传递函数】（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=d6LDRghd1L)
-##### [【改进灰狼优化算法】混沌灰狼优化算法(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=pWDW1qvzmb)
-##### [【改进粒子群优化算法】基于惯性权重和学习因子动态调整的粒子群算法【期刊论文复现】（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xDGeMQcvSg)
+##### [【改进粒子群优化算法】增强型二元粒子群优化 （BPSO）算法【具有 6 个新的传递函数】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a914b4566.pg1)
+##### [【改进灰狼优化算法】混沌灰狼优化算法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a915b4666.pg1)
+##### [【改进粒子群优化算法】基于惯性权重和学习因子动态调整的粒子群算法【期刊论文复现】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a916b6666.pg1)
 ##### [基于自适应惯性权重的粒子群优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xdhnvQkBkD)
-##### [混合灰狼和杜鹃搜索优化算法(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=cIJHmS2CoK)
-##### [贪婪的非分层灰狼优化算法（G-NHGWO）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=GNCuIiwy80)
-##### [【改进灰狼优化算法】改进收敛因子和比例权重的灰狼优化算法【期刊论文完美复现】（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=NMUT6B3GfO)
-##### [基于遗传算法和布谷鸟搜索优化算法的特征选择（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Cnw7kA6gFx)
+##### [混合灰狼和杜鹃搜索优化算法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a917b6666.pg1)
+##### [贪婪的非分层灰狼优化算法（G-NHGWO）（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a918b3999.pg1)
+##### [【改进灰狼优化算法】改进收敛因子和比例权重的灰狼优化算法【期刊论文完美复现】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a919b6666.pg1)
+##### [基于遗传算法和布谷鸟搜索优化算法的特征选择（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a920b6666.pg1)
 
 ## 2.3 多目标系列
 ##### [多目标萤火虫优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=1TmRc8FD8q)
 ##### [多目标Jaya优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=gfQfqtPONe)
 ##### [多目标粘液霉菌算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=LOEJKlVSYp)
 ##### [多目标海洋捕食者算法（MOMPA）(Matlab代码）](https://ttaozhi.com/t/p.html?id=0jKaG5DlAT)
-##### [NSGA-III优化算法算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=iXjiWtti4Y)
+##### [NSGA-III优化算法算法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a921b4566.pg1)
 
 ## 2.4 优化调度
-##### [【优化调度】基于改进遗传算法的公交车调度排班优化的研究与实现（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=ZGSHjXQtAR)
-##### [基于模拟退火优化算法求解船舶优化调度问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=QAi2LOLhSv)
+##### [【优化调度】基于改进遗传算法的公交车调度排班优化的研究与实现（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a922b7666.pg1)
+##### [基于模拟退火优化算法求解船舶优化调度问题（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a923b5666.pg1)
 
 # 三、机器学习、神经网络预测与分类专栏
 ### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
 ##### [基于多尺度集成极限学习机回归（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=GC84WlnCoG)
-##### [基于随机森林实现特征选择降维及回归预测（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=vh3V38sAte)
+##### [基于随机森林实现特征选择降维及回归预测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a924b6666.pg1)
 ##### [随机分布式延迟PSO（RODDPSO）+K-Means算法（Python代码实现）](https://ttaozhi.com/t/p.html?id=yeMIZshFZt)
 ##### [基于时空RBF-NN的混沌时间序列预测（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=J9CfWP9jkH)
 ##### [基于PSO优化的RBF进行数据预测回归（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=nzhFHeXe4m)
