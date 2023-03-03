@@ -364,7 +364,7 @@
 
 
 # 二、智能优化算法、优化调度专栏
-### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
+### [CSDN没找到的资源，联系客服QQ：2166504845]
 ## 2.1 单目标系列
 ##### [【单目标优化算法】杂草优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=WCBz3EBKQa)
 ##### [【单目标优化算法】蜣螂优化算法（Dung beetle optimizer，DBO）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YXgQPeGJHy)
@@ -399,7 +399,7 @@
 ##### [基于模拟退火优化算法求解船舶优化调度问题（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a923b5666.pg1)
 
 # 三、机器学习、神经网络预测与分类专栏
-### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
+### [CSDN没找到的资源，联系客服QQ：2166504845]
 ##### [基于多尺度集成极限学习机回归（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=GC84WlnCoG)
 ##### [基于随机森林实现特征选择降维及回归预测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a924b6666.pg1)
 ##### [随机分布式延迟PSO（RODDPSO）+K-Means算法（Python代码实现）](https://ttaozhi.com/t/p.html?id=yeMIZshFZt)
@@ -430,7 +430,7 @@
 
 
 # 四、路径规划、机器人、背包问题专栏
-### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
+### [CSDN没找到的资源，联系客服QQ：2166504845]
 ##### [使用蚁群优化 （ACO） 解决背包问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=VPOFdLY2HS)
 ##### [基于蚁群算法的车辆路径规划问题的研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xwK0HGYqVr)
 ##### [基于麻雀优化算法的路径优化问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=KjawcCdjgx)
@@ -451,7 +451,7 @@
 ##### [【无人机】四旋翼飞行器控制、路径规划和轨迹优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=auqq6UHjiG)
 
 # 五、车间调度、车辆调度专栏
-### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
+### [CSDN没找到的资源，联系客服QQ：2166504845]
 ##### [基于遗传算法的柔性车间调度优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=mZCiWsjzjd)
 ##### [基于改进遗传算法的柔性车间调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=OKJ12N6hBY)
 ##### [基于蚂蚁优化算法的柔性车间调度研究（Python代码实现）](https://ttaozhi.com/t/p.html?id=qYUTqJ7JMx)
@@ -470,7 +470,7 @@
 ##### [基于模拟退火 (SA)求解车辆配送 （VPR） (Matlab代码实现） ](https://ttaozhi.com/t/p.html?id=KxbJIWxhcK)
 
 # 六、无人机、无人车
-### [CSDN没找到的资源，联系客服QQ](https://mp.weixin.qq.com/s/Lb37XBEvev29C8HF11IVXQ)
+### [CSDN没找到的资源，联系客服QQ：2166504845]
 ##### [【无人机】四轴无人机的轨迹进行可视化和动画处理（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=pQN2TxKjrc)
 ##### [基于改进粒子群优化算法的UAV三维路径规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=DhB0Keza8j)
 ##### [改进粒子滤波的无人机三维航迹预测方法(Matlab代码实现)](https://ttaozhi.com/t/p.html?id=te8OAYhv92)
