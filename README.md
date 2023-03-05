@@ -26,6 +26,7 @@
 ##### [<3>yalmip和cplex安装步骤(Matlab)](http://t.csdn.cn/Hig7a)
 
 ### [完整代码下载步骤](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
+![image](https://github.com/taoran1998/-/blob/main/image.png)
 
 ## 一、电气专栏
 ### 1.1 综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
