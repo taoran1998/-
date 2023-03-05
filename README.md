@@ -384,6 +384,7 @@
 
 # 二、智能优化算法、优化调度专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+![image](https://github.com/taoran1998/-/blob/main/imagee.png)
 ## 2.1 单目标系列
 ##### [【单目标优化算法】杂草优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=WCBz3EBKQa)
 ##### [【单目标优化算法】蜣螂优化算法（Dung beetle optimizer，DBO）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YXgQPeGJHy)
