@@ -7,7 +7,7 @@
 #### 5 车间调度、车辆调度专栏
 #### 6 无人机、无人车专栏
 #### 7 图片处理专栏
-#### 8 信号处理、雷达、灵敏性分析专栏
+#### 8 信号处理、雷达、灵敏性分析、故障诊断专栏
 #### 9 语音处理专栏
 #### 10 物理应用专栏
 
@@ -29,12 +29,14 @@
 ## 一、电气专栏
 ## 1.1 综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
 ##### [高比例风电电力系统储能运行及配置分析（Matlab实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a705b9999.pg1)
+##### [计及新能源出力不确定性的电气设备综合能源系统协同优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a944b9999.pg1)
 ##### [考虑阶梯式碳交易机制与电制氢的综合能源系统热电优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a706b6666.pg1)
 ##### [考虑阶梯式碳交易与供需灵活双响应的综合能源系统优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a707b8888.pg1)
 ##### [考虑柔性负荷的综合能源系统低碳经济优化调度(考虑碳交易机制）（Matlab代码+数据+文章详细讲解）](https://bs.97ta.xyz/p.php?8tp=t4.9681a708b9999.pg1)
 ##### [【电力系统优化调度】计及源荷两侧不确定性的含风电电力系统低碳调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a709b6666.pg1)
 ##### [数据驱动的两阶段分布鲁棒（1-范数和∞-范数约束）的电热综合能源系统研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a710b11999.pg1)
 ##### [基于纳什谈判理论的风–光–氢多主体能源系统合作运行方法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a711b9999.pg1)
+##### [基于非合作博弈的风-光-氢微电网容量优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a945b9999.pg1)
 ##### [基于多目标粒子群优化算法的冷热电联供型综合能源系统运行优化(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a712b9999.pg1)
 ##### [基于储能电站服务的冷热电多微网系统双层优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a713b9999.pg1)
 ##### [基于双层优化的综合能源系统规划研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a714b7888.pg1)
@@ -46,6 +48,7 @@
 ##### [基于主从博弈的智能小区代理商定价策略及电动汽车充电管理（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a720b9999.pg1)
 ##### [独立光伏-电池-柴油发电机组的能源管理系统的主干网研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a721b5666.pg1)
 ##### [基于信息间隙决策理论的碳捕集电厂调度(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a722b9999.pg1)
+##### [【风电预测】考虑预测误差不确定性的风电预测研究（matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a943b9999.pg1)
 ##### [综合能源系统分析的统一能路理论(三)：《稳态与动态潮流计算》（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a723b6666.pg1)
 ##### [基于多时间尺度滚动优化的多能源微网双层调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a724b11999.pg1)
 ##### [基于主从博弈理论的共享储能与综合能源微网优化运行研究(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a725b8888.pg1)
@@ -81,7 +84,7 @@
 ##### [配电网与微电网中虑需求响应的研究【基于价格型需求响应】（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a752b8888.pg1)
 ##### [计及需求响应的基于改进天牛须算法算法的孤岛微电网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a753b8888.pg1)
 ##### [基于激励的需求响应计划下弹性微电网的短期可靠性和经济性评估（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a754b8888.pg1)
-##### [需求响应|动态冰蓄冷系统与需求响应策略的优化研究（Matlab代码实现）+碳排放流（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a755b13999.pg1)
+##### [需求响应|动态冰蓄冷系统与需求响应策略的优化研究（Matlab代码实现）+碳排放流（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a946b18888.pg1)
 ##### [【需求响应】基于数据驱动的需求响应优化及预测研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a756b9999.pg1)
 ##### [计及需求响应的粒子群算法求解风能、光伏、柴油机、储能容量优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a757b9999.pg1)
 ##### [计及需求响应的改进灰狼优化算法求解风、光、柴、储容量优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a758b13999.pg1)
@@ -201,9 +204,9 @@
 ##### [太阳能电池输出预测（Matlab和Python）](https://bs.97ta.xyz/p.php?8tp=t2.9681a912b6666.pg1)
 
 ## 1.4 负荷预测、场景削减系列
-##### [LSTM对比Bi-LSTM的电力负荷时间序列预测](https://bs.97ta.xyz/p.php?8tp=t4.9681a838b6666.pg1)
 ##### [负荷预测|一种改进支持向量机的电力负荷预测方法研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a839b6666.pg1)
 ##### [【光伏功率预测】基于EMD-PCA-LSTM的光伏功率预测模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a840b13999.pg1)
+##### [【风电预测】考虑预测误差不确定性的风电预测研究（matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a943b9999.pg1)
 ##### [分布式光伏发电计及气象因子及出力预测方法研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a841b6666.pg1)
 ##### [车-电-路网时空分布负荷预测研究（Matlab代码）](https://bs.97ta.xyz/p.php?8tp=t3.9681a842b18888.pg1)
 ##### [基于麻雀搜索算法（SSA）优化长短期记忆神经网络参数SSA-LSTM冷、热、电负荷预测（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a843b7888.pg1)
@@ -211,6 +214,7 @@
 ##### [基于Adam算法优化GRU神经网络的短期负荷预测（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a845b5666.pg1)
 ##### [基于CNN-Lstm负荷预测（Python代码实现）](https://ttaozhi.com/t/p.html?id=bySKd0dz5O)
 ##### [基于CNN+BiLSTM+Attention的多维(多变量)时间序列预测（Python代码+数据）](https://ttaozhi.com/t/p.html?id=p5bqEad7xt)
+##### [LSTM对比Bi-LSTM的电力负荷时间序列预测](https://bs.97ta.xyz/p.php?8tp=t4.9681a838b6666.pg1)
 ##### [基于长短期记忆网络和凸优化算法的综合智能电网的可再生能源预测（Python代码实现）](https://ttaozhi.com/t/p.html?id=p1PoOQkAD2)
 ##### [基于LSTM神经网络的电力负荷预测（Python代码实现）](https://ttaozhi.com/t/p.html?id=Ngs72dzqJV)
 ##### [基于人工神经网络的空压机负荷预测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a846b8888.pg1)
@@ -512,7 +516,7 @@
 
 
 
-# 八、信号处理、雷达、灵敏性分享专栏
+# 八、信号处理、雷达、灵敏性、故障诊断分享专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
 ##### [使用傅里叶级数展开法从谐波的和中产生方波（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=wwGpntS210)
 ##### [ECG信号处理——包括基本波检测、信号去噪、信号重建度量（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=90BWr5J3Al)
@@ -1077,7 +1081,7 @@
 
 
 
-# 八、信号处理、雷达、灵敏性分享专栏
+# 八、信号处理、雷达、灵敏性、故障诊断分享专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
 ##### [使用傅里叶级数展开法从谐波的和中产生方波（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=wwGpntS210)
 ##### [ECG信号处理——包括基本波检测、信号去噪、信号重建度量（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=90BWr5J3Al)
