@@ -177,6 +177,7 @@
 ### 1.3 电动车、抽水蓄能、储能、电化学系列
 ##### [考虑电动汽车灵活性的微网多时间尺度协调调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a813b11999.pg1)
 ##### [基于 V2G 技术的电动汽车实时调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a814b5666.pg1)
+##### [V2G模式下含分布式能源网优化运行研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1054b8888.pg1)
 ##### [电动汽车充电站的最优选址和定容【两种方法】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a815b8888.pg1)
 ##### [考虑交通网络流量的电动汽车充电站规划【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a976b6666.pg1)
 ##### [【电动车】基于多目标优化遗传算法NSGAII的峰谷分时电价引导下的电动汽车充电负荷优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a816b6666.pg1)
