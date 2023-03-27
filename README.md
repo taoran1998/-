@@ -208,6 +208,7 @@
 
 ##### [【抽水蓄能电站】基于粒子群优化算法的抽水蓄能电站的最佳调度方案研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a836b9999.pg1)
 ##### [独立储能的现货电能量与调频辅助服务市场出清协调机制（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a901b9999.pg1)
+##### [基于蓄电池进行调峰和频率调节研究【超线性增益的联合优化】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1116b9999.pg1)
 
 ##### [二氧化碳捕获和电化学转化（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a893b9999.pg1)
 ##### [基于卡尔曼滤波的SOC估算锂离子电池优化（Matlab代码+数据+文章讲解）](https://bs.97ta.xyz/p.php?8tp=t2.9681a894b9999.pg1)
@@ -314,10 +315,12 @@
 ##### [【Copula】基于二元Frank-Copula函数的风光出力场景生成方法【考虑风光出力的不确定性和相关性】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a860b16600.pg1)
 ##### [【Copula】考虑风光联合出力和相关性的Copula场景生成（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a861b11999.pg1)
 ##### [【风光场景生成】基于改进ISODATA的负荷曲线聚类算法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1039b9999.pg1)
+##### [基于蓄电池进行调峰和频率调节研究【超线性增益的联合优化】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1116b9999.pg1)
 
 
 ### 1.7 电力系统潮流和最优潮流
 ##### [电力系统碳排放流的计算方法(Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5yZmJdv)
+##### [【前推回代法】含有分布式电源的三相不平衡配电网潮流计算【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1115b6666.pg1)
 ##### [【最优潮流】直流最优潮流(OPF)课设（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=FuJbaS3LHm)
 ##### [基于遗传算法的最优潮流问题的研究（Matlab实现）【期刊论文复现】](https://mbd.pub/o/bread/mbd-YpuZm5Zp)
 ##### [电力系统潮流计算（牛顿-拉夫逊法、高斯-赛德尔法、快速解耦法）（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Yp2Zmp1t)
