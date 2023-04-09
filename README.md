@@ -109,11 +109,11 @@
 ##### [基于分时电价策略的家庭能量系统优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a759b3665.pg1)
 ##### [【价格型需求响应】基于Logistic函数的负荷转移率模型需求响应研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a760b4566.pg1)
 ##### [【需求响应】基于数据驱动的需求响应优化及预测研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a886b8888.pg1)
+##### [基于数据驱动的智能空调系统需求响应可控潜力评估研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1211b9999.pg1)
 ##### [分时电价环境下用户负荷需求响应分析方法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a761b6666.pg1)
 ##### [【需求响应】分时电价机制下居民用户需求侧对负荷响应研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1042b6666.pg1)
 ##### [温控负荷的需求响应潜力评估及其协同优化管理研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a927b6666.pg1)
 ##### [计及需求侧响应日前、日内两阶段鲁棒备用优化(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1188b7666.pg1)
-##### [基于数据驱动的智能空调系统需求响应可控潜力评估研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a762b8888.pg1)
 
 
 ### 1.2 微电网、智能电网系列
