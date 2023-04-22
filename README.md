@@ -25,7 +25,7 @@
 ##### [<1>Matlab代码运行基础文章讲解](http://t.csdn.cn/e9mVZ)
 ##### [<2>文章搜索及文章讲解：](http://t.csdn.cn/spfxn)
 ##### [<3>yalmip和cplex安装步骤(Matlab)](http://t.csdn.cn/Hig7a)
-
+### [免责声明](https://mp.weixin.qq.com/s/-dYzn02XOz1iEPh7rpsfXA)
 ### [完整代码下载步骤](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
 
 ## 一、电气专栏
