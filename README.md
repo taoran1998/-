@@ -150,7 +150,7 @@
 ##### [基于粒子群优化算法、遗传算法的微电网优化调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=O6KQTdlKZD)
 ##### [【微电网】微电网的分布式电源优化配置研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a770b5666.pg1)
 ##### [含分布式发电的微电网中储能装置容量优化配置(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a771b5666.pg1)
-##### [【微电网】含风、光、储联合发电的微电网优化调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1597b18888.pg1)
+##### [含风、光、储联合发电的微电网优化调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1597b18888.pg1)
 ##### [微电网调度（风、光、储能、电网交互）（Matlab&Python代码实现）【粒子群、优化器】](https://bs.97ta.xyz/p.php?8tp=t3.9681a772b8888.pg1)
 ##### [基于模型预测算法的混合储能微电网双层能量管理系统研究(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a773b11999.pg1)
 ##### [实时电价机制下交直流混合微网优化运行方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a978b7666.pg1)
