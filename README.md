@@ -27,6 +27,7 @@
 ##### [<2>文章搜索及文章讲解：](http://t.csdn.cn/spfxn)
 ##### [<3>yalmip和cplex安装步骤(Matlab)](http://t.csdn.cn/Hig7a)
 ### [免责声明](https://mp.weixin.qq.com/s/-dYzn02XOz1iEPh7rpsfXA)
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ## [完整代码下载步骤[百度网盘]](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
 
 ## 一、电气专栏
@@ -506,8 +507,7 @@
 
 
 # 二、智能优化算法、优化调度专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
-![image](https://github.com/taoran1998/-/blob/main/imagee.png)
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ## 2.1 单目标系列
 ##### [【单目标优化算法】杂草优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=WCBz3EBKQa)
 ##### [【单目标优化算法】蜣螂优化算法（Dung beetle optimizer，DBO）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YXgQPeGJHy)
@@ -521,7 +521,7 @@
 ##### [加权黑猩猩优化算法（WChOA）（Matlab代码实现）【与ChOA、PSO、WOA、BH、ALO、GA和GWO算法比较](https://ttaozhi.com/t/p.html?id=gzQKGkJgyF)
 
 ## 2.2 改进单目标系列
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [【改进粒子群优化算法】增强型二元粒子群优化 （BPSO）算法【具有 6 个新的传递函数】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a914b4566.pg1)
 ##### [【改进灰狼优化算法】混沌灰狼优化算法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a915b4666.pg1)
 ##### [【改进粒子群优化算法】基于惯性权重和学习因子动态调整的粒子群算法【期刊论文复现】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a916b6666.pg1)
@@ -532,7 +532,7 @@
 ##### [基于遗传算法和布谷鸟搜索优化算法的特征选择（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a920b6666.pg1)
 
 ## 2.3 多目标系列
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [多目标萤火虫优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=1TmRc8FD8q)
 ##### [多目标Jaya优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=gfQfqtPONe)
 ##### [多目标粘液霉菌算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=LOEJKlVSYp)
@@ -540,12 +540,12 @@
 ##### [NSGA-III优化算法算法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a921b4566.pg1)
 
 ## 2.4 优化调度
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [【优化调度】基于改进遗传算法的公交车调度排班优化的研究与实现（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1438b9999.pg1)
 ##### [基于模拟退火优化算法求解船舶优化调度问题（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a923b5666.pg1)
 
 # 三、机器学习、神经网络预测与分类专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [基于多尺度集成极限学习机回归（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=GC84WlnCoG)
 ##### [基于随机森林实现特征选择降维及回归预测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a924b6666.pg1)
 ##### [随机分布式延迟PSO（RODDPSO）+K-Means算法（Python代码实现）](https://ttaozhi.com/t/p.html?id=yeMIZshFZt)
@@ -576,7 +576,7 @@
 
 
 # 四、路径规划、机器人、背包问题专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [使用蚁群优化 （ACO） 解决背包问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=VPOFdLY2HS)
 ##### [基于蚁群算法的车辆路径规划问题的研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xwK0HGYqVr)
 ##### [基于麻雀优化算法的路径优化问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=KjawcCdjgx)
@@ -597,7 +597,7 @@
 ##### [【无人机】四旋翼飞行器控制、路径规划和轨迹优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=auqq6UHjiG)
 
 # 五、车间调度、车辆调度专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [基于遗传算法的柔性车间调度优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=mZCiWsjzjd)
 ##### [基于改进遗传算法的柔性车间调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=OKJ12N6hBY)
 ##### [基于蚂蚁优化算法的柔性车间调度研究（Python代码实现）](https://ttaozhi.com/t/p.html?id=qYUTqJ7JMx)
@@ -616,7 +616,7 @@
 ##### [基于模拟退火 (SA)求解车辆配送 （VPR） (Matlab代码实现） ](https://ttaozhi.com/t/p.html?id=KxbJIWxhcK)
 
 # 六、无人机、无人车
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [【无人机】四轴无人机的轨迹进行可视化和动画处理（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=pQN2TxKjrc)
 ##### [基于改进粒子群优化算法的UAV三维路径规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=DhB0Keza8j)
 ##### [改进粒子滤波的无人机三维航迹预测方法(Matlab代码实现)](https://ttaozhi.com/t/p.html?id=te8OAYhv92)
@@ -637,7 +637,7 @@
 ##### [【无人机】四旋翼飞行器目标分配、全局路径规划和局部路径规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=3EME0GVSA5)
 
 # 七、图片处理专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [基于改进萤火虫算法的图像分割的应用（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=9EEuhiNRHG)
 
 
@@ -645,7 +645,7 @@
 
 
 # 八、信号处理、雷达、灵敏性、故障诊断分享专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [使用傅里叶级数展开法从谐波的和中产生方波（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=wwGpntS210)
 ##### [ECG信号处理——包括基本波检测、信号去噪、信号重建度量（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=90BWr5J3Al)
 ##### [【信号处理】机会信号基于RPS和RPS全球导航卫星定位（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=04LgKCtYYZ)
@@ -668,14 +668,14 @@
 ##### [优化算法——全局灵敏度分析算法（PAWN ）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=LGKMbnFvaz)
 
 # 九、语音处理专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [语音处理(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=3z7QiwqUcG)
 ##### [基于K近邻分类算法的语音情感识别（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=0BFcQBSwsS)
 
 
 
 # 十、物理应用专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：2166504845
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [基于鹰优化算法和粒子群优化算法结合焊接梁设计，拉伸/压缩，压力容器，悬臂梁设计的应用（Matlab代码实现）]()
 ##### [使用x射线与大块材料中原子相互作用的基本理论模拟相对强度XRD图案（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=KtrxnINrQp)
 ##### [使用标量衍射理论和菲涅耳和弗劳恩霍夫衍射的衍射对波动光学进行建模（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=meoLqD1We9)
