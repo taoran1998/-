@@ -22,7 +22,6 @@
 # 欢迎您的到来
 ### QQ邮箱：2166504845@qq.com  （如有侵权和违权请联系删除）
 #### [:v:【1】微信公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
-![image](https://github.com/taoran1998/-/blob/main/image.png)
 #### [:v:【2】知乎](https://www.zhihu.com/people/qing-si-wei-shui-wu)
 #### [:v:【3】B站](https://space.bilibili.com/326173720)
 #### [:v:【4】阿里云](https://developer.aliyun.com/profile/vnux7hrgeze4y?spm=a2c6h.12873639.article-detail.65.1de05e6c9JrK9Q)
