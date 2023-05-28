@@ -1,7 +1,6 @@
 
-# [【2023A题】电采暖负荷参与电力系统功率调节的技术经济分析(思路、代码）](https://mbd.pub/o/bread/ZJmXmp1s)
-# [电工杯【2023B题】人工智能对大学生学习影响的评价(思路、代码）](https://mbd.pub/o/bread/ZJmXmp1q)
-
+## [【2023A题】电采暖负荷参与电力系统功率调节的技术经济分析(思路、代码）](https://mbd.pub/o/bread/ZJmXmp1s)
+## [【2023电工杯完整论文】电工杯A题代码--电采暖负荷参与电力系统功率调节的技术经济分析](https://mbd.pub/o/bread/ZJmYmZ1s)
 
 
 
