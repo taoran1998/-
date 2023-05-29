@@ -72,6 +72,7 @@
 ##### [基于信息间隙决策理论的碳捕集电厂调度(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a722b9999.pg1)
 ##### [【风电预测】考虑预测误差不确定性的风电预测研究（matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a943b9999.pg1)
 ##### [综合能源系统分析的统一能路理论(三)：《稳态与动态潮流计算》（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a723b6666.pg1)
+##### [【ADMM、碳排放】基于分布式ADMM算法的考虑碳排放交易的电力系统优化调度研究【IEEE6节点、IEEE30节点、IEEE118节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1843b13888.pg1)
 ##### [基于多时间尺度滚动优化的多能源微网双层调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a724b11999.pg1)
 ##### [基于主从博弈理论的共享储能与综合能源微网优化运行研究(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a725b8888.pg1)
 ##### [基于共享储能电站的工业用户日前优化经济调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a726b9999.pg1)
@@ -135,6 +136,7 @@
 ##### [分时电价环境下用户负荷需求响应分析方法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a761b6666.pg1)
 ##### [【需求响应】分时电价机制下居民用户需求侧对负荷响应研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1042b6666.pg1)
 ##### [温控负荷的需求响应潜力评估及其协同优化管理研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a927b6666.pg1)
+##### [【需求响应】高比例清洁能源接入下计及需求响应的配电网重构【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1842b18888.pg1)
 ##### [计及需求侧响应日前、日内两阶段鲁棒备用优化(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1188b7666.pg1)
 ##### [【需求响应】基于进化算法的住宅光伏电池系统需求响应研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1482b15888.pg1)
 
@@ -382,6 +384,7 @@
 ##### [计及光伏电站快速无功响应特性的分布式电源优化配置方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1006b9999.pg1)
 ##### [【有功-无功协调优化】基于改进多目标粒子群优化算法（小生境粒子群算法）的配电网有功-无功协调优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1040b9999.pg1)
 ##### [基于多目标粒子群优化算法的计及光伏波动性的主动配电网有功无功协调优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1044b8888.pg1)
+##### [【无功优化】基于改进教与学算法的配电网无功优化【IEEE33节点】（Matlab代码时候）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1840b13888.pg1)
 ##### [【无功优化】基于多目标差分进化算法的含DG配电网无功优化模型【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1275b9999.pg1)
 
 ##### [基于变化点 copula 优化算法中的贝叶斯研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5uZmpxq)
@@ -438,9 +441,12 @@
 ##### [【故障定位】基于粒子群优化算法的故障定位及故障区段研究【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a906b7666.pg1)
 ##### [【故障定位】基于多元宇宙算法的主动配电网故障定位方法研究(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1278b9999.pg1)
 ##### [【配电网故障重构SOP】基于二阶锥松弛的加光伏风机储能进行的配电网故障处理和重构【考虑最优潮流】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1276b16888.pg1)
+##### [【配电网重构】基于混合整数二阶锥配电网重构研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1839b13888.pg1)
 ##### [【配电网重构】基于SOE算法的多时段随机配电网重构方法【IEEE33节点、IEEE84节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1593b13888.pg1)
+##### [【配电网重构】基于改进二进制粒子群算法的配电网重构研究（Matlab代码实现](https://bs.97ta.xyz/p.php?8tp=t1.9681a1841b16888.pg1)
 ##### [基于弹性配电网划分模型研究【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a979b6666.pg1)
 ##### [基于遗传算法的配电网重构研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a903b7666.pg1)
+##### [【配电网重构】高比例清洁能源接入下计及需求响应的配电网重构【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1842b18888.pg1)
 ##### [最优孤岛划分下含分布式电源配电网可靠性评估（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5yck5xy)
 ##### [主动配电网故障恢复的重构与孤岛划分统一模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a948b11999.pg1)
 ##### [考虑“源-荷-储”协同互动的主动配电网优化调度研究【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a905b9999.pg1)
@@ -469,6 +475,7 @@
 ##### [基于粒子群优化算法的分布式电源选址定容【IEEE33节点】（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZJWXl5tv)
 ##### [分布式电源接入对配电网影响的研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5ybkplw)
 ##### [基于粒子群由优化算法对微网中的分布式电源进行最优调度实现配电网稳定运行（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZJWXl5pw)
+##### [【无功优化】基于改进教与学算法的配电网无功优化【IEEE33节点】（Matlab代码时候）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1840b13888.pg1)
 ##### [计及光伏波动性的主动配电网有功无功协调优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1041b9999.pg1)
 
 ### 1.9 机组组合、电能质量
