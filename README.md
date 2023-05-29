@@ -222,7 +222,7 @@
 ##### [智能电网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a812b4500.pg1)
 ##### [智能微电网研究（Python&Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a892b5666.pg1)
 
-### 1.3 电动车、抽水蓄能、储能、电化学系列
+### 1.3 电动车、抽水蓄能、储能、调峰、调频、电化学系列
 ##### [考虑电动汽车灵活性的微网多时间尺度协调调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a813b11999.pg1)
 ##### [基于 V2G 技术的电动汽车实时调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a814b5666.pg1)
 ##### [V2G模式下含分布式能源网优化运行研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1054b8888.pg1)
@@ -265,6 +265,9 @@
 ##### [参与辅助服务的用户侧储能优化配置及经济分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1481b16888.pg1)
 ##### [【EI复现】参与调峰的储能系统配置方案及经济性分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1493b38888.pg1)
 ##### [基于蓄电池进行调峰和频率调节研究【超线性增益的联合优化】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1116b9999.pg1)
+##### [【EI复现】参与调峰的储能系统配置方案及经济性分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1493b38888.pg1)
+##### [【调峰】储能辅助电力系统调峰的容量需求研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1845b9999.pg1)
+##### [【一次调频】考虑储能电池参与一次调频技术经济模型的容量配置方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1846b16888.pg1)
 ##### [平抑风电波动的电-氢混合储能容量优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1717b16888.pg1)
 
 ##### [二氧化碳捕获和电化学转化（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a893b9999.pg1)
@@ -338,14 +341,19 @@
 ### 1.5 状态估计、非侵入式负荷系列
 ##### [【状态估计】基于随机方法优化PMU优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a869b6666.pg1)
 ##### [【状态估计】基于PMU的多回路配电系统状态估计（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a870b5666.pg1)
+##### [【鲁棒、状态估计】用于电力系统动态状态估计的鲁棒迭代扩展卡尔曼滤波器研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1850b28888.pg1)
 ##### [【状态估计】电力系统状态估计的虚假数据注入攻击建模与对策（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1274b13888.pg1)
 ##### [状态估计|基于 MMSE 的分析估计器的不确定电力系统分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a871b9999.pg1)
 ##### [【状态估计】基于二进制粒子群优化 （BPSO） 求解最佳 PMU优化配置研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a872b6666.pg1)
 ##### [【WLSM、FDM状态估计】电力系统状态估计研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1177b9999.pg1)
 ##### [【状态估计】带观测滞后多传感器系统的改进协方差交叉融合Kalman滤波器（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1005b9999.pg1)
+##### [电力系统的虚假数据注入攻击和MTD系统研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1851b6666.pg1)
 ##### [改进的粒子滤波算法及其应用研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a873b8888.pg1)
 ##### [【PMU】基于两种模拟退火方法、两种图论过程和递归安全N算法六种算法的最优PMU布置（OPP）研究（Matlab代码实现](https://bs.97ta.xyz/p.php?8tp=t1.9681a874b6666.pg1)
+##### [【状态估计】无味卡尔曼滤波研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1852b8888.pg1)
 ##### [【状态估计】电力系统状态估计中的异常检测与分类（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a875b8888.pg1)
+##### [针对KF状态估计的电力系统虚假数据注入攻击研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1848b16888.pg1)
+##### [【弹性分布式EMA】在智能电网中DoS攻击和虚假数据注入攻击（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1849b9999.pg1)
 ##### [基于离散时间频率增益传感器的P级至M级PMU模型的实现（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a876b6666.pg1)
 ##### [基于ILP的最优PMU放置优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a877b5666.pg1)
 ##### [使用 PMU（相量测量单元）进行电力系统状态估计(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a878b8888.pg1)
