@@ -1,9 +1,4 @@
 
-## [【2023A题】电采暖负荷参与电力系统功率调节的技术经济分析(思路、代码）](https://mbd.pub/o/bread/ZJmXmp1s)
-## [【2023电工杯完整论文】电工杯A题代码--电采暖负荷参与电力系统功率调节的技术经济分析](https://mbd.pub/o/bread/ZJmYmZ1s)
-
-
-
 # 专栏目录：
 #### 1 电气专栏:muscle:
 #### 2 智能算法【单目标、多目标、改进算法】、优化调度专栏:muscle:
@@ -21,6 +16,7 @@
 # 欢迎您的到来
 ### QQ邮箱：2166504845@qq.com  （如有侵权和违权请联系删除）
 #### [:v:【1】微信公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
+![image](httpsgithub.comtaoran1998-blobmainimage.png)
 #### [:v:【2】知乎](https://www.zhihu.com/people/qing-si-wei-shui-wu)
 #### [:v:【3】B站](https://space.bilibili.com/326173720)
 #### [:v:【4】阿里云](https://developer.aliyun.com/profile/vnux7hrgeze4y?spm=a2c6h.12873639.article-detail.65.1de05e6c9JrK9Q)
