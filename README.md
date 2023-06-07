@@ -1,30 +1,30 @@
 
 # :muscle:专栏目录：
-### :1st_place_medal:1电气专栏:a:
-#### :2nd_place_medal:1.1综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
-#### :2nd_place_medal:1.2微电网、智能电网系列
-#### :2nd_place_medal:1.3电动车、抽水蓄能、储能、调峰、调频、电化学系列
-#### :2nd_place_medal:1.4负荷预测、场景削减、集群划分系列
-#### :2nd_place_medal:1.5状态估计、非侵入式负荷系列
-#### :2nd_place_medal:1.6经济调度、无功优化、Copula系列
-#### :2nd_place_medal:1.7电力系统潮流和最优潮流
-#### :2nd_place_medal:1.8配电网、分布式能源的选址与定容系列
-#### :2nd_place_medal:1.9机组组合、电能质量
-#### :2nd_place_medal:1.10Simulink专栏
-#### :2nd_place_medal:1.11电气期刊论文数据:input_numbers: :1234:
-### :1st_place_medal:2智能算法【单目标、多目标、改进算法】、优化调度专栏:100:
-### :1st_place_medal:3机器学习、神经网络预测与分类专栏:b:
-### :1st_place_medal:4路径规划、机器人路径规划专栏:+1:
-### :1st_place_medal:5车间调度、车辆调度专栏:pool_8_ball: :8ball:
-### :1st_place_medal:6无人机、无人车专栏:input_latin_lowercase: :abcd:
-### :1st_place_medal:7图片处理专栏:Japanese_acceptable_button: :accept:
-### :1st_place_medal:8信号处理、雷达、灵敏性分析、故障诊断专栏:adh
-### :1st_place_medal:9语音处理专栏:abacus:
-### :1st_place_medal:10物理应用专栏::ab:
+### :1st_place_medal:1 电气专栏:a:
+#### :2nd_place_medal:1.1 综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
+#### :2nd_place_medal:1.2 微电网、智能电网系列
+#### :2nd_place_medal:1.3 电动车、抽水蓄能、储能、调峰、调频、电化学系列
+#### :2nd_place_medal:1.4 负荷预测、场景削减、集群划分系列
+#### :2nd_place_medal:1.5 状态估计、非侵入式负荷系列
+#### :2nd_place_medal:1.6 经济调度、无功优化、Copula系列
+#### :2nd_place_medal:1.7 电力系统潮流和最优潮流
+#### :2nd_place_medal:1.8 配电网、分布式能源的选址与定容系列
+#### :2nd_place_medal:1.9 机组组合、电能质量
+#### :2nd_place_medal:1.10 Simulink专栏
+#### :2nd_place_medal:1.11 电气期刊论文数据:input_numbers: :1234:
+### :1st_place_medal:2 智能算法【单目标、多目标、改进算法】、优化调度专栏:100:
+### :1st_place_medal:3 机器学习、神经网络预测与分类专栏:b:
+### :1st_place_medal:4 路径规划、机器人路径规划专栏:+1:
+### :1st_place_medal:5 车间调度、车辆调度专栏:pool_8_ball: :8ball:
+### :1st_place_medal:6 无人机、无人车专栏:input_latin_lowercase: :abcd:
+### :1st_place_medal:7 图片处理专栏:Japanese_acceptable_button: :accept:
+### :1st_place_medal:8 信号处理、雷达、灵敏性分析、故障诊断专栏:c:
+### :1st_place_medal:9 语音处理专栏:abacus:
+### :1st_place_medal:10 物理应用专栏::ab:
 
 
 
-# 欢迎您的到来
+# :3rd_place_medal:欢迎您的到来:4th_place_medal:
 ### QQ邮箱：2166504845@qq.com  （如有侵权和违权请联系删除）
 #### [:v:【1】微信公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
 ![image](httpsgithub.comtaoran1998-blobmainimage.png)
@@ -37,7 +37,7 @@
 ##### [:+1:<2>文章搜索及文章讲解：](http://t.csdn.cn/spfxn)
 ##### [<3>yalmip和cplex安装步骤(Matlab)](http://t.csdn.cn/Hig7a)
 ### [:+1:免责声明](https://mp.weixin.qq.com/s/-dYzn02XOz1iEPh7rpsfXA)
-## [:accept:完整代码下载步骤[百度网盘]](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
+## [:abacus:完整代码下载步骤[百度网盘]](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
 
 ## 一、电气专栏
 ### 1.1 综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
