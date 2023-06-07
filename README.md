@@ -1,26 +1,26 @@
 
 # :muscle:专栏目录：
-## :1st_place_medal:电气专栏
-### :2nd_place_medal:综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
-:2nd_place_medal:微电网、智能电网系列
-:2nd_place_medal:电动车、抽水蓄能、储能、调峰、调频、电化学系列
-:2nd_place_medal:负荷预测、场景削减、集群划分系列
-:2nd_place_medal:状态估计、非侵入式负荷系列
-:2nd_place_medal:经济调度、无功优化、Copula系列
-:2nd_place_medal:电力系统潮流和最优潮流
-:2nd_place_medal:配电网、分布式能源的选址与定容系列
-:2nd_place_medal:机组组合、电能质量
-:2nd_place_medal:Simulink专栏
-:2nd_place_medal:电气期刊论文数据
-## :1st_place_medal:智能算法【单目标、多目标、改进算法】、优化调度专栏
-## :1st_place_medal:机器学习、神经网络预测与分类专栏
-## :1st_place_medal:路径规划、机器人路径规划专栏
-## :1st_place_medal:车间调度、车辆调度专栏
-## :1st_place_medal:无人机、无人车专栏
-## :1st_place_medal:图片处理专栏
-## :1st_place_medal:信号处理、雷达、灵敏性分析、故障诊断专栏
-## :1st_place_medal:语音处理专栏:muscle:
-## :1st_place_medal:物理应用专栏
+### :1st_place_medal:电气专栏:A_button_(blood_type): :a:
+#### :2nd_place_medal:综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
+#### :2nd_place_medal:微电网、智能电网系列
+#### :2nd_place_medal:电动车、抽水蓄能、储能、调峰、调频、电化学系列
+#### :2nd_place_medal:负荷预测、场景削减、集群划分系列
+#### :2nd_place_medal:状态估计、非侵入式负荷系列
+#### :2nd_place_medal:经济调度、无功优化、Copula系列
+#### :2nd_place_medal:电力系统潮流和最优潮流
+#### :2nd_place_medal:配电网、分布式能源的选址与定容系列
+#### :2nd_place_medal:机组组合、电能质量
+#### :2nd_place_medal:Simulink专栏
+#### :2nd_place_medal:电气期刊论文数据:input_numbers: :1234:
+### :1st_place_medal:智能算法【单目标、多目标、改进算法】、优化调度专栏:hundred_points: :100:
+### :1st_place_medal:机器学习、神经网络预测与分类专栏:thumbs_down: :-1:
+### :1st_place_medal:路径规划、机器人路径规划专栏:thumbs_up: :+1:
+### :1st_place_medal:车间调度、车辆调度专栏:pool_8_ball: :8ball:
+### :1st_place_medal:无人机、无人车专栏:input_latin_lowercase: :abcd:
+### :1st_place_medal:图片处理专栏:Japanese_acceptable_button: :accept:
+### :1st_place_medal:信号处理、雷达、灵敏性分析、故障诊断专栏:adh
+### :1st_place_medal:语音处理专栏:abacus:
+### :1st_place_medal:物理应用专栏:AB_button_(blood_type): :ab:
 
 
 
