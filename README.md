@@ -13,14 +13,14 @@
 #### :2nd_place_medal:1.10Simulink专栏
 #### :2nd_place_medal:1.11电气期刊论文数据:input_numbers: :1234:
 ### :1st_place_medal:2智能算法【单目标、多目标、改进算法】、优化调度专栏:100:
-### :1st_place_medal:3机器学习、神经网络预测与分类专栏:B:
+### :1st_place_medal:3机器学习、神经网络预测与分类专栏:b:
 ### :1st_place_medal:4路径规划、机器人路径规划专栏:+1:
 ### :1st_place_medal:5车间调度、车辆调度专栏:pool_8_ball: :8ball:
 ### :1st_place_medal:6无人机、无人车专栏:input_latin_lowercase: :abcd:
 ### :1st_place_medal:7图片处理专栏:Japanese_acceptable_button: :accept:
 ### :1st_place_medal:8信号处理、雷达、灵敏性分析、故障诊断专栏:adh
 ### :1st_place_medal:9语音处理专栏:abacus:
-### :1st_place_medal:10物理应用专栏:AB_button_(blood_type): :ab:
+### :1st_place_medal:10物理应用专栏::ab:
 
 
 
@@ -33,11 +33,11 @@
 #### [:v:【4】阿里云](https://developer.aliyun.com/profile/vnux7hrgeze4y?spm=a2c6h.12873639.article-detail.65.1de05e6c9JrK9Q)
 #### [:v:【5】51CTO博客](https://blog.51cto.com/u_15739983)
 #### [:v:【6】CSDN：](https://blog.csdn.net/weixin_46039719?type=blog)
-##### [<1>Matlab代码运行基础文章讲解](http://t.csdn.cn/e9mVZ)
-##### [<2>文章搜索及文章讲解：](http://t.csdn.cn/spfxn)
+##### [:+1:<1>Matlab代码运行基础文章讲解](http://t.csdn.cn/e9mVZ)
+##### [:+1:<2>文章搜索及文章讲解：](http://t.csdn.cn/spfxn)
 ##### [<3>yalmip和cplex安装步骤(Matlab)](http://t.csdn.cn/Hig7a)
-### [免责声明](https://mp.weixin.qq.com/s/-dYzn02XOz1iEPh7rpsfXA)
-## [完整代码下载步骤[百度网盘]](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
+### [:+1:免责声明](https://mp.weixin.qq.com/s/-dYzn02XOz1iEPh7rpsfXA)
+## [:accept:完整代码下载步骤[百度网盘]](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
 
 ## 一、电气专栏
 ### 1.1 综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
