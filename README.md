@@ -18,7 +18,7 @@
 ### :1st_place_medal:5 车间调度、车辆调度专栏:pool_8_ball: :8ball:
 ### :1st_place_medal:6 无人机、无人车专栏:input_latin_lowercase: :abcd:
 ### :1st_place_medal:7 图片处理专栏:Japanese_acceptable_button: :accept:
-### :1st_place_medal:8 信号处理、雷达、灵敏性分析、故障诊断专栏:c:
+### :1st_place_medal:8 信号处理、雷达、灵敏性分析、故障诊断专栏:100:
 ### :1st_place_medal:9 语音处理专栏:abacus:
 ### :1st_place_medal:10 物理应用专栏::ab:
 
