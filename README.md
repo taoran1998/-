@@ -11,20 +11,20 @@
 #### :2nd_place_medal:1.8 配电网、分布式能源的选址与定容系列
 #### :2nd_place_medal:1.9 机组组合、电能质量
 #### :2nd_place_medal:1.10 Simulink专栏
-#### :2nd_place_medal:1.11 电气期刊论文数据:input_numbers: :1234:
+#### :2nd_place_medal:1.11 电气期刊论文数据: :1234:
 ### :1st_place_medal:2 智能算法【单目标、多目标、改进算法】、优化调度专栏:100:
 ### :1st_place_medal:3 机器学习、神经网络预测与分类专栏:b:
 ### :1st_place_medal:4 路径规划、机器人路径规划专栏:+1:
-### :1st_place_medal:5 车间调度、车辆调度专栏:pool_8_ball: :8ball:
-### :1st_place_medal:6 无人机、无人车专栏:input_latin_lowercase: :abcd:
-### :1st_place_medal:7 图片处理专栏:Japanese_acceptable_button: :accept:
+### :1st_place_medal:5 车间调度、车辆调度专栏::8ball:
+### :1st_place_medal:6 无人机、无人车专栏::abcd:
+### :1st_place_medal:7 图片处理专栏::accept:
 ### :1st_place_medal:8 信号处理、雷达、灵敏性分析、故障诊断专栏:100:
 ### :1st_place_medal:9 语音处理专栏:abacus:
 ### :1st_place_medal:10 物理应用专栏::ab:
 
 
 
-# :3rd_place_medal:欢迎您的到来::3rd_place_medal:
+# :3rd_place_medal:欢迎您的到来:
 ### QQ邮箱：2166504845@qq.com  （如有侵权和违权请联系删除）
 #### [:v:【1】微信公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
 ![image](httpsgithub.comtaoran1998-blobmainimage.png)
