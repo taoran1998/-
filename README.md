@@ -35,7 +35,7 @@
 #### [:v:【6】CSDN：](https://blog.csdn.net/weixin_46039719?type=blog)
 ##### [:+1:<1>Matlab代码运行基础文章讲解](https://blog.csdn.net/weixin_46039719/article/details/126939450)
 ##### [:+1:<2>文章搜索及文章讲解：](https://blog.csdn.net/weixin_46039719/article/details/127816178?spm=1001.2014.3001.5502)
-##### [:+1:<3>yalmip和cplex安装步骤(Matlab)]([http://t.csdn.cn/Hig7a](https://blog.csdn.net/weixin_46039719/article/details/126352221?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166769609216782425167631%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=166769609216782425167631&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-5-126352221-null-null.nonecase&utm_term=Cplex&spm=1018.2226.3001.4450))
+##### [:+1:<3>yalmip和cplex安装步骤(Matlab)](https://blog.csdn.net/weixin_46039719/article/details/126352221)
 ##### [:+1:<4>最详细matlab 2018a安装教程步骤：：](https://blog.csdn.net/weixin_46039719/article/details/123340003)
 ## [:abacus:免责声明](https://mp.weixin.qq.com/s/-dYzn02XOz1iEPh7rpsfXA)
 ## [:abacus:完整代码下载步骤[百度网盘]](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
