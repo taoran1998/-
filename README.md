@@ -21,6 +21,7 @@
 ###### :1st_place_medal:8 信号处理、雷达、灵敏性分析、故障诊断专栏:100:
 ###### :1st_place_medal:9 语音处理专栏:abacus:
 ###### :1st_place_medal:10 物理应用专栏::ab:
+###### :1st_place_medal:10 其他专栏::100:
 
 
 
@@ -591,13 +592,13 @@
 🌟
 ### 1.11 电气期刊论文数据
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
-##### [【电气数据】光伏数据](https://ttaozhi.com/t/p.html?id=VaZCI5j1hD)
-##### [【数据下载】光伏数据（电气期刊论文）](https://ttaozhi.com/t/p.html?id=ZT0s845AcU)
-##### [【电气数据】风电数据](https://ttaozhi.com/t/p.html?id=mDaIKWjsVi)
-##### [【电气数据】IEEE、BPA潮流计算标准算例数据-专业指导文档类资源](https://ttaozhi.com/t/p.html?id=ZZKI2VHOFh)
+##### [【电气数据】光伏数据](https://mbd.pub/o/bread/Y56am5xy)
+##### [【数据下载】光伏数据（电气期刊论文）](https://mbd.pub/o/bread/Y56am5xy)
+##### [【电气数据】风电数据](https://mbd.pub/o/bread/Y56am5xw)
+##### [【电气数据】IEEE、BPA潮流计算标准算例数据-专业指导文档类资源](https://mbd.pub/o/bread/Y56amJdy)
 ##### [【电气数据】10机39节点数据及接线图](https://bs.97ta.xyz/p.php?8tp=t3.9681a913b3999.pg1)
-##### [【数据】电负荷、热负荷、光伏、风能数据](https://ttaozhi.com/t/p.html?id=aQzOBPujRg)
-##### [IEEE123节点数据](https://ttaozhi.com/t/p.html?id=rBEGU9m4Z0)
+##### [【数据】电负荷、热负荷、光伏、风能数据](https://mbd.pub/o/bread/mbd-Y52WmZ5x)
+##### [IEEE123节点数据](https://mbd.pub/o/bread/ZJuVlZZt)
 ##### [电气数据IEEE118（含风能太阳能）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1609b8888.pg1)
 ##### [法国某家庭真实用电负荷数据](https://bs.97ta.xyz/p.php?8tp=t1.9681a704b1.pg0)
 
@@ -605,16 +606,16 @@
 # 二、智能优化算法、优化调度专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ## 2.1 单目标系列
-##### [【单目标优化算法】杂草优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=WCBz3EBKQa)
-##### [【单目标优化算法】蜣螂优化算法（Dung beetle optimizer，DBO）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YXgQPeGJHy)
-##### [【单目标优化算法】沙猫群优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xNz1IUr1rz)
-##### [【单目标优化算法】海鸥优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=J2wVF6BesO)
-##### [【单目标优化算法】烟花优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Hfmirynys0)
-##### [【单目标优化算法】食肉植物优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=SoqsqfVSZP)
-##### [【单目标优化算法】樽海鞘群算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=WJ0f6mpSDv)
-##### [【单目标优化算法】狐狸优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YjFV4gEWL3)
-##### [基于启发式蝙蝠算法、粒子群算法、花轮询算法和布谷鸟搜索算法的换热器PI控制器优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=ZoqrnZ0lQi)
-##### [加权黑猩猩优化算法（WChOA）（Matlab代码实现）【与ChOA、PSO、WOA、BH、ALO、GA和GWO算法比较](https://ttaozhi.com/t/p.html?id=gzQKGkJgyF)
+##### [【单目标优化算法】杂草优化算法（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZdv)
+##### [【单目标优化算法】蜣螂优化算法（Dung beetle optimizer，DBO）（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZds)
+##### [【单目标优化算法】沙猫群优化算法（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZdq)
+##### [【单目标优化算法】海鸥优化算法（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZZy)
+##### [【单目标优化算法】烟花优化算法（Matlab代码实现）](https://mbd.pub/o/bread/Y56ak55y)
+##### [【单目标优化算法】食肉植物优化算法（Matlab代码实现）](https://mbd.pub/o/bread/Y56ak55v)
+##### [【单目标优化算法】樽海鞘群算法（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZZw)
+##### [【单目标优化算法】狐狸优化算法（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZZv)
+##### [基于启发式蝙蝠算法、粒子群算法、花轮询算法和布谷鸟搜索算法的换热器PI控制器优化（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56UmZZp)
+##### [加权黑猩猩优化算法（WChOA）（Matlab代码实现）【与ChOA、PSO、WOA、BH、ALO、GA和GWO算法比较](https://mbd.pub/o/bread/mbd-Y5uamJZy)
 
 ## 2.2 改进单目标系列
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
@@ -645,7 +646,7 @@
 ##### [基于多尺度集成极限学习机回归（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=GC84WlnCoG)
 ##### [基于随机森林实现特征选择降维及回归预测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a924b6666.pg1)
 ##### [随机分布式延迟PSO（RODDPSO）+K-Means算法（Python代码实现）](https://ttaozhi.com/t/p.html?id=yeMIZshFZt)
-##### [基于时空RBF-NN的混沌时间序列预测（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=J9CfWP9jkH)
+##### [基于时空RBF-NN的混沌时间序列预测（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5uZlZ5r)
 ##### [基于PSO优化的RBF进行数据预测回归（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=nzhFHeXe4m)
 ##### [基于粒子群算法优化支持向量机研究(Python代码实现）](https://ttaozhi.com/t/p.html?id=RjwDk8zfF6)
 
@@ -673,68 +674,68 @@
 
 # 四、路径规划、机器人、背包问题专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
-##### [使用蚁群优化 （ACO） 解决背包问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=VPOFdLY2HS)
-##### [基于蚁群算法的车辆路径规划问题的研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xwK0HGYqVr)
-##### [基于麻雀优化算法的路径优化问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=KjawcCdjgx)
-##### [路径规划|多目标海洋捕食者算法(MOMPA)求解最短路径问题(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=mMD15gqTkV)
-##### [【路径优化】基于改进的RRT算法的全局路径规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=S6e9kXa4zw)
-##### [【路径规划】基于RRT算法和改进人工势场法的无人机任务规划方法研究（Python代码实现）](https://ttaozhi.com/t/p.html?id=9VAnqKlLyQ)
-##### [车辆纵向动力学、加速性能和燃料消耗研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=4ZwujZdXDy)
-##### [基于DWA算法的机器人路径规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Gmwj4zJ9gh)
-##### [基于蚁群优化算法的时间窗的车辆配送(VRP)优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=09EVGU2g1x)
-##### [四自由度机械臂的轨迹规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=2FLwmKzCRV)
-##### [【路径规划】基于RRT算法和改进人工势场法的无人机任务规划方法研究（Python代码实现）](https://ttaozhi.com/t/p.html?id=Xvy11aRYbp)
-##### [【路径规划】基于A*算法和Dijkstra算法的路径规划（Python代码实现）](https://ttaozhi.com/t/p.html?id=MDxCKsknsU)
-##### [【路径规划】基于Dijkstra算法及Floyd算法的通信与网络路径规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=G5f5WNJUoE)
-##### [基于蚂蚁遗传优化算法的路径规划问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=yJsAbB42sH)
-##### [多约束、多车辆VRP问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=2SuK82QLnq)
-##### [多因素蚁群算法的移动机器人路径规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=w3OJs8Id64)
-##### [基于Dijkstra、A*和动态规划的移动机器人路径规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=fFlLbVLB4k)
-##### [【无人机】四旋翼飞行器控制、路径规划和轨迹优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=auqq6UHjiG)
+##### [使用蚁群优化 （ACO） 解决背包问题（Matlab代码实现）](https://mbd.pub/o/bread/Y56bkpZx)
+##### [基于蚁群算法的车辆路径规划问题的研究（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZlt)
+##### [基于麻雀优化算法的路径优化问题（Matlab代码实现）](基于麻雀优化算法的路径优化问题（Matlab代码实现）)
+##### [路径规划|多目标海洋捕食者算法(MOMPA)求解最短路径问题(Matlab代码实现）](https://mbd.pub/o/bread/mbd-Yp2bl5ht)
+##### [【路径优化】基于改进的RRT算法的全局路径规划（Matlab代码实现）](https://mbd.pub/o/bread/Yp6Tl5tv)
+##### [【路径规划】基于RRT算法和改进人工势场法的无人机任务规划方法研究（Python代码实现）](https://mbd.pub/o/bread/Y56TlJ9q)
+##### [车辆纵向动力学、加速性能和燃料消耗研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52UmZtp)
+##### [基于DWA算法的机器人路径规划研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56UmpZq)
+##### [基于蚁群优化算法的时间窗的车辆配送(VRP)优化（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5qXm51v)
+##### [四自由度机械臂的轨迹规划（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Tl5pw)
+##### [【路径规划】基于RRT算法和改进人工势场法的无人机任务规划方法研究（Python代码实现）](https://mbd.pub/o/bread/mbd-Y56TlJ9q)
+##### [【路径规划】基于A*算法和Dijkstra算法的路径规划（Python代码实现）](https://mbd.pub/o/bread/Y56TlJ9p)
+##### [【路径规划】基于Dijkstra算法及Floyd算法的通信与网络路径规划（Matlab代码实现）](https://mbd.pub/o/bread/Y56TlJ5x)
+##### [基于蚂蚁遗传优化算法的路径规划问题（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5qZmJ1w)
+##### [多约束、多车辆VRP问题（Matlab代码实现）](https://mbd.pub/o/bread/Y52Tkp1q)
+##### [多因素蚁群算法的移动机器人路径规划研究（Matlab代码实现）](https://mbd.pub/o/bread/Y5qZl59r)
+##### [基于Dijkstra、A*和动态规划的移动机器人路径规划（Matlab代码实现）](https://mbd.pub/o/bread/Y5qZl5Zt)
+##### [【无人机】四旋翼飞行器控制、路径规划和轨迹优化（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5qWm5hw)
 
 # 五、车间调度、车辆调度专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
-##### [基于遗传算法的柔性车间调度优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=mZCiWsjzjd)
-##### [基于改进遗传算法的柔性车间调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=OKJ12N6hBY)
-##### [基于蚂蚁优化算法的柔性车间调度研究（Python代码实现）](https://ttaozhi.com/t/p.html?id=qYUTqJ7JMx)
-##### [基于遗传算法的柔性生产调度研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=MJE3wNxrZt)
-##### [改进差分进化算法及其求解柔性作业车间调度问题（Python代码实现）](https://ttaozhi.com/t/p.html?id=lzo0c9LPA9)
-##### [【车间调度】基于全球邻域和爬坡来优化模糊柔性作业车间调度问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=BiRFpXrZdl)
-##### [基于改进的离散PSO算法的FJSP的研究（Python代码实现）](https://ttaozhi.com/t/p.html?id=es9B98djCP)
-##### [基于离散的 Jaya 算法实现柔性车间调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=gT6pCsyyzv)
-##### [【车间调度】基于卷积神经网络的柔性作业车间调度问题的两阶段算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=9dbyt1sncs)
-##### [基于智能优化算法PSO/GWO/AFO+柔性车间生产调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=ry0kWHVJlR)
-##### [车间调度|基于帝王蝶优化算法的车间调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=J3umADC0pb)
-##### [基于蚁群算法的多配送中心的车辆调度问题的研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=yUYgNWAayZ)
-##### [基于知识图谱的自主作业插秧机任务规划研究（Python代码实现）](https://ttaozhi.com/t/p.html?id=K3yyymgfq1)
-##### [基于多目标遗传算法的多技能员工排班调度（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=txCUZsIlww)
-##### [【VRP问题】基于帝国企鹅优化算法求解冷链配送物流车辆调度优化研究](https://ttaozhi.com/t/p.html?id=dJTnAWrEew)
-##### [基于模拟退火 (SA)求解车辆配送 （VPR） (Matlab代码实现） ](https://ttaozhi.com/t/p.html?id=KxbJIWxhcK)
+##### [基于遗传算法的柔性车间调度优化（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5ublpls)
+##### [基于改进遗传算法的柔性车间调度（Matlab代码实现）](https://mbd.pub/o/bread/Y5eYm59q)
+##### [基于蚂蚁优化算法的柔性车间调度研究（Python代码实现）](https://mbd.pub/o/bread/mbd-ZJWUkpZv)
+##### [基于遗传算法的柔性生产调度研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZJWUkpZp)
+##### [改进差分进化算法及其求解柔性作业车间调度问题（Python代码实现）](https://mbd.pub/o/bread/Y5uTmZhr)
+##### [【车间调度】基于全球邻域和爬坡来优化模糊柔性作业车间调度问题（Matlab代码实现）](https://mbd.pub/o/bread/Y5qamZxu)
+##### [基于改进的离散PSO算法的FJSP的研究（Python代码实现）](https://mbd.pub/o/bread/mbd-ZJWTmp5u)
+##### [基于离散的 Jaya 算法实现柔性车间调度（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5ublphx)
+##### [【车间调度】基于卷积神经网络的柔性作业车间调度问题的两阶段算法（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52amJZr)
+##### [基于智能优化算法PSO/GWO/AFO+柔性车间生产调度（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5Wakp5t)
+##### [车间调度|基于帝王蝶优化算法的车间调度（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5aZlZlu)
+##### [基于蚁群算法的多配送中心的车辆调度问题的研究（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZdy)
+##### [基于知识图谱的自主作业插秧机任务规划研究（Python代码实现）](https://mbd.pub/o/bread/mbd-Y56TlZZs)
+##### [基于多目标遗传算法的多技能员工排班调度（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5eZk5hp)
+##### [【VRP问题】基于帝国企鹅优化算法求解冷链配送物流车辆调度优化研究](https://mbd.pub/o/bread/mbd-Y5Wak5tw)
+##### [基于模拟退火 (SA)求解车辆配送 （VPR） (Matlab代码实现） ](https://mbd.pub/o/bread/mbd-Y5eYlZht)
 
 # 六、无人机、无人车
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
-##### [【无人机】四轴无人机的轨迹进行可视化和动画处理（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=pQN2TxKjrc)
-##### [基于改进粒子群优化算法的UAV三维路径规划研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=DhB0Keza8j)
-##### [改进粒子滤波的无人机三维航迹预测方法(Matlab代码实现)](https://ttaozhi.com/t/p.html?id=te8OAYhv92)
-##### [【无人机】无人机平台的非移动 GPS 干扰器进行位置估计的多种传感器融合算法的性能分析（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=SyNqABCadX)
-##### [【无人机】回波状态网络（ESN）在固定翼无人机非线性控制中的应用（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=6OkdnA4R3f)
-##### [基于PID控制的四旋翼飞行器仿真（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=du9RbP9v2Z)
-##### [【无人机】基于运动编码粒子群优化（MPSO）的搜索无人机（UAV）的运动目标（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=kcF51XK7T8)
-##### [基于四旋翼无人机的PD控制研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=eseRkos7mx)
-##### [【无人机路径规划】基于IRM和RRTstar进行无人机路径规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=ugQxVS4tHh)
-##### [【无人车】用于无人地面车辆的路径跟踪算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=e4ikFiMCOX)
-##### [【无人车】无人驾驶地面车辆避障研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=c0NUvHdNeJ)
-##### [【无人机路径规划】基于深度强化学习的多无人机辅助边缘计算网络路径规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=AGjlMUOd2E)
-##### [【无人机】考虑有效载荷功率的太阳能无人机研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Qov2w1PdNG)
-##### [【无人车】无人驾驶车辆模型预测控制（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=zVusRFEa9j)
-##### [【无人车路径规划】Frenet下的无人车路径规划（Python代码实现）](https://ttaozhi.com/t/p.html?id=sclzfOjTEc)
-##### [多旋翼物流无人机节能轨迹规划（Python代码实现）](https://ttaozhi.com/t/p.html?id=RijCVtGPtn)
-##### [【无人机】四旋翼飞行器控制、路径规划和轨迹优化（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=auqq6UHjiG)
-##### [【无人机】四旋翼飞行器目标分配、全局路径规划和局部路径规划（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=3EME0GVSA5)
+##### [【无人机】四轴无人机的轨迹进行可视化和动画处理（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5aakplq)
+##### [基于改进粒子群优化算法的UAV三维路径规划研究（Matlab代码实现）](https://mbd.pub/o/bread/Y5ublphv)
+##### [改进粒子滤波的无人机三维航迹预测方法(Matlab代码实现)](https://mbd.pub/o/bread/ZJuVlZhp)
+##### [【无人机】无人机平台的非移动 GPS 干扰器进行位置估计的多种传感器融合算法的性能分析（Matlab代码实现）](https://mbd.pub/o/bread/Y56bm59s)
+##### [【无人机】回波状态网络（ESN）在固定翼无人机非线性控制中的应用（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56bm51x)
+##### [基于PID控制的四旋翼飞行器仿真（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5uclZZx)
+##### [【无人机】基于运动编码粒子群优化（MPSO）的搜索无人机（UAV）的运动目标（Matlab代码实现）](基于运动编码粒子群优化（MPSO）的搜索无人机)
+##### [基于四旋翼无人机的PD控制研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5uclJ9p)
+##### [【无人机路径规划】基于IRM和RRTstar进行无人机路径规划（Matlab代码实现）](基于IRM和RRTstar进行无人机路径规划)
+##### [【无人车】用于无人地面车辆的路径跟踪算法（Matlab代码实现）](https://mbd.pub/o/bread/Y56bm5pu)
+##### [【无人车】无人驾驶地面车辆避障研究（Matlab代码实现）](https://mbd.pub/o/bread/Y56bm5lu)
+##### [【无人机路径规划】基于深度强化学习的多无人机辅助边缘计算网络路径规划（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Umpdt)
+##### [【无人机】考虑有效载荷功率的太阳能无人机研究（Matlab代码实现）](考虑有效载荷功率的太阳能无人机研究)
+##### [【无人车】无人驾驶车辆模型预测控制（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56UlJ5s)
+##### [【无人车路径规划】Frenet下的无人车路径规划（Python代码实现）](https://mbd.pub/o/bread/mbd-Y56TlZZt)
+##### [多旋翼物流无人机节能轨迹规划（Python代码实现）](https://mbd.pub/o/bread/mbd-Y52bkpdt)
+##### [【无人机】四旋翼飞行器控制、路径规划和轨迹优化（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5qWm5hw)
+##### [【无人机】四旋翼飞行器目标分配、全局路径规划和局部路径规划（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5qWm5xs)
 
 # 七、图片处理专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
-##### [基于改进萤火虫算法的图像分割的应用（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=9EEuhiNRHG)
+##### [基于改进萤火虫算法的图像分割的应用（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5yXm55q)
 
 
 
@@ -742,39 +743,39 @@
 
 # 八、信号处理、雷达、灵敏性、故障诊断分享专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
-##### [使用傅里叶级数展开法从谐波的和中产生方波（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=wwGpntS210)
-##### [ECG信号处理——包括基本波检测、信号去噪、信号重建度量（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=90BWr5J3Al)
-##### [【信号处理】机会信号基于RPS和RPS全球导航卫星定位（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=04LgKCtYYZ)
-##### [【信号处理】毫米波的空间协方差估计使用带外信息的混合系统（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=dzgfbDdb9c)
-##### [使用带外空间信息选择毫米波波束（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=tSMc6Xh36K)
-##### [周期矩形波的傅里叶级数展开（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=BeGrYHwJYD)
-##### [【移动通信】瑞利衰落通道上的差分MPSK（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=T401FbaV3a)
-##### [多孔弹性材料中传播的膨胀波方法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=PdLUFvXCW6)
-##### [【信号处理】基于到达角的超声多频信号手势识别(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=zlpYs3EC8p)
-##### [基于MATLAB中雷达和视觉合成数据的目标级传感器融合（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=fzWBnV9AVp)
-##### [L和S波段SAR信号穿透深度评估（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=bdAYnpTPXS)
+##### [使用傅里叶级数展开法从谐波的和中产生方波（Matlab代码实现）](https://mbd.pub/o/bread/Y56bkpZs)
+##### [ECG信号处理——包括基本波检测、信号去噪、信号重建度量（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52bl5ls)
+##### [【信号处理】机会信号基于RPS和RPS全球导航卫星定位（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52bk5dx)
+##### [【信号处理】毫米波的空间协方差估计使用带外信息的混合系统（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52bkp1s)
+##### [使用带外空间信息选择毫米波波束（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZhx)
+##### [【移动通信】瑞利衰落通道上的差分MPSK（Matlab代码实现）]https://mbd.pub/o/bread/mbd-Y52bmZ9s)
+##### [【信号处理】基于到达角的超声多频信号手势识别(Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52bmpdr)
+##### [基于MATLAB中雷达和视觉合成数据的目标级传感器融合（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56UmJ5x)
+##### [L和S波段SAR信号穿透深度评估（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Tm5pv)
 
-##### [用于灵敏性分析的方法模型（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=bDi2t6bQrD)
-##### [用于从单细胞FRET数据中提取灵敏度分布（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=8FhurnxsDb)
-##### [用于参数拟合、灵敏度分析（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=sX4ZDWDobg)
-##### [对灵敏度分析技术进行建模（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YGxEPs544P)
-##### [V2V网络灵敏度分析(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=F54BfkJ7XR)
-##### [基于应力的拓扑优化的高效3D灵敏度分析代码(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=FW29TV24eN)
-##### [基于多保真方法来估计方差和全局敏感度指数分析（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Ni4WacnonB)
-##### [优化算法——全局灵敏度分析算法（PAWN ）（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=LGKMbnFvaz)
+##### [用于灵敏性分析的方法模型（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Tm5py)
+##### [用于从单细胞FRET数据中提取灵敏度分布（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Tl5lu)
+##### [用于参数拟合、灵敏度分析（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Tl5lq)
+##### [对灵敏度分析技术进行建模（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56TlJZv)
+##### [V2V网络灵敏度分析(Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52cmphy)
+##### [基于应力的拓扑优化的高效3D灵敏度分析代码(Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52cmphv)
+##### [基于多保真方法来估计方差和全局敏感度指数分析（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52cmJtr)
+##### [优化算法——全局灵敏度分析算法（PAWN ）（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Yp6Tl59s)
 
 # 九、语音处理专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
-##### [语音处理(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=3z7QiwqUcG)
-##### [基于K近邻分类算法的语音情感识别（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=0BFcQBSwsS)
+##### [语音处理(Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlJ9p)
+##### [基于K近邻分类算法的语音情感识别（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlJ9q)
 
 
 
 # 十、物理应用专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
-##### [基于鹰优化算法和粒子群优化算法结合焊接梁设计，拉伸/压缩，压力容器，悬臂梁设计的应用（Matlab代码实现）]()
-##### [使用x射线与大块材料中原子相互作用的基本理论模拟相对强度XRD图案（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=KtrxnINrQp)
-##### [使用标量衍射理论和菲涅耳和弗劳恩霍夫衍射的衍射对波动光学进行建模（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=meoLqD1We9)
-##### [基于透镜傅里叶变换特性的4F相关器系统的Matlab仿真(Matlab代码实现）](https://ttaozhi.com/t/p.html?id=18oigOzr0b)
-##### [热交换器及一维平行流换热器分析（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=6jjcXg3Lzs)
-##### [列车-轨道-桥梁交互仿真研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=uBL2O1DWAj)
+##### [基于鹰优化算法和粒子群优化算法结合焊接梁设计，拉伸/压缩，压力容器，悬臂梁设计的应用（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlJ9s)
+##### [使用x射线与大块材料中原子相互作用的基本理论模拟相对强度XRD图案（Matlab代码实现）](https://mbd.pub/o/bread/Y56Vlplp)
+##### [使用标量衍射理论和菲涅耳和弗劳恩霍夫衍射的衍射对波动光学进行建模（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Vkp1v)
+##### [基于透镜傅里叶变换特性的4F相关器系统的Matlab仿真(Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Vkp1s)
+##### [热交换器及一维平行流换热器分析（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlJ9v)
+##### [列车-轨道-桥梁交互仿真研究（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlJ9u)
+# 十一、其他专栏
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
