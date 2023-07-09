@@ -621,8 +621,8 @@
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [【改进粒子群优化算法】增强型二元粒子群优化 （BPSO）算法【具有 6 个新的传递函数】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a914b4566.pg1)
 ##### [【改进灰狼优化算法】混沌灰狼优化算法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a915b4666.pg1)
-##### [【改进粒子群优化算法】基于惯性权重和学习因子动态调整的粒子群算法【期刊论文复现】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a916b6666.pg1)
-##### [基于自适应惯性权重的粒子群优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xdhnvQkBkD)
+##### [【改进粒子群优化算法】基于惯性权重和学习因子动态调整的粒子群算法【期刊论文复现】（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZ5p)
+##### [基于自适应惯性权重的粒子群优化算法（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56UmpZs)
 ##### [混合灰狼和杜鹃搜索优化算法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a917b6666.pg1)
 ##### [贪婪的非分层灰狼优化算法（G-NHGWO）（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a918b3999.pg1)
 ##### [【改进灰狼优化算法】改进收敛因子和比例权重的灰狼优化算法【期刊论文完美复现】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a919b6666.pg1)
@@ -630,10 +630,10 @@
 
 ## 2.3 多目标系列
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
-##### [多目标萤火虫优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=1TmRc8FD8q)
-##### [多目标Jaya优化算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=gfQfqtPONe)
-##### [多目标粘液霉菌算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=LOEJKlVSYp)
-##### [多目标海洋捕食者算法（MOMPA）(Matlab代码）](https://ttaozhi.com/t/p.html?id=0jKaG5DlAT)
+##### [多目标萤火虫优化算法（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52UlZtp)
+##### [多目标Jaya优化算法（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52TlJ1w)
+##### [多目标粘液霉菌算法（Matlab代码实现）](https://mbd.pub/o/bread/mbd-YpqYlZhp)
+##### [多目标海洋捕食者算法（MOMPA）(Matlab代码）](https://mbd.pub/o/bread/mbd-YpqYlZZp)
 ##### [NSGA-III优化算法算法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a921b4566.pg1)
 
 ## 2.4 优化调度
@@ -643,33 +643,33 @@
 
 # 三、机器学习、神经网络预测与分类专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
-##### [基于多尺度集成极限学习机回归（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=GC84WlnCoG)
+##### [基于多尺度集成极限学习机回归（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5uclZtt)
 ##### [基于随机森林实现特征选择降维及回归预测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a924b6666.pg1)
-##### [随机分布式延迟PSO（RODDPSO）+K-Means算法（Python代码实现）](https://ttaozhi.com/t/p.html?id=yeMIZshFZt)
+##### [随机分布式延迟PSO（RODDPSO）+K-Means算法（Python代码实现）](https://mbd.pub/o/bread/Y5uUm5Zx)
 ##### [基于时空RBF-NN的混沌时间序列预测（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5uZlZ5r)
-##### [基于PSO优化的RBF进行数据预测回归（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=nzhFHeXe4m)
-##### [基于粒子群算法优化支持向量机研究(Python代码实现）](https://ttaozhi.com/t/p.html?id=RjwDk8zfF6)
+##### [基于PSO优化的RBF进行数据预测回归（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5uYlZZw)
+##### [基于粒子群算法优化支持向量机研究(Python代码实现）](https://mbd.pub/o/bread/Y5uUlJpy)
 
-##### [基于遗传算法GA算法优化BP神经网络（Python代码实现）](https://ttaozhi.com/t/p.html?id=V3MyEuKN19)
-##### [【BP预测】基于遗传算法优化的BP神经网络数据回归预测（Matla代码实现）](https://ttaozhi.com/t/p.html?id=vRXkA09kwZ)
-##### [基于粒子群算法优化BP神经网络的PID控制算法（Matlab代码实现)](https://ttaozhi.com/t/p.html?id=rhHi9FRYCi)
-##### [基于粒子群优化算法的BP神经网络预测模型（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=xv189B3DjS)
-##### [基于模拟退火算法优化的BP神经网络预测模型（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=A1xzvKEffR)
-##### [基于思维进化算法优化BP神经网络（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=ER15AiP2tB)
-##### [基于鲸鱼优化算法训练神经网络（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=u08DlpY8VS)
-##### [基于萤火虫算法优化的BP神经网络预测模型（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=0Jb2dibmWE)
-##### [基于文化算法优化的BP神经网络预测研究（Matlab代码实现） (1)](https://ttaozhi.com/t/p.html?id=nURlRqC6Us)
-##### [使用BP神经网络和Elman Net预测航班价格（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=QvmEE7bcK1)
-##### [基于人工大猩猩部队优化CNN-LSTM（GTO-CNN-LSTM）多变量时间序列预测（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=uX5qbZEPYl)
-##### [基于北方苍鹰算法优化LSTM（NGO-LSTM）研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=YGOzdtjuHz)
-##### [基于麻雀算法优化的深度极限学习机DLM的预测算法（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=pE5AigISKD)
-##### [基于帝企鹅算法优化BP神经网络实现数据预测（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=IUmcFCCk6w)
-##### [极限学习机ELM回归预测（MATLAB代码实现）](https://ttaozhi.com/t/p.html?id=3kwznDbvtS)
-##### [用于非线性时间序列预测的稀疏局部线性和邻域嵌入（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=dajkpTqXUw)
-##### [基于遗传算法的BP神经网络技术的应用（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=j1Z6xeHMYg)
-##### [基于模型预测人工势场的船舶运动规划方法，考虑复杂遭遇场景下的COLREG（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=WBTUgt5W7R)
-##### [基于模糊BP神经网络轨迹跟踪（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=Mc8se8L6ZY)
-##### [基于贝叶斯优化CNN研究（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=lgfLxFjuKt)
+##### [基于遗传算法GA算法优化BP神经网络（Python代码实现）](https://mbd.pub/o/bread/Y5uXmJ5t)
+##### [【BP预测】基于遗传算法优化的BP神经网络数据回归预测（Matla代码实现）](https://mbd.pub/o/bread/mbd-Y5WWmJpr)
+##### [基于粒子群算法优化BP神经网络的PID控制算法（Matlab代码实现)](https://mbd.pub/o/bread/Y5uWk5Zt)
+##### [基于粒子群优化算法的BP神经网络预测模型（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5aYlZhp)
+##### [基于模拟退火算法优化的BP神经网络预测模型（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5aXmp5q)
+##### [基于思维进化算法优化BP神经网络（Matlab代码实现）](https://mbd.pub/o/bread/Y5uYlJhs)
+##### [基于鲸鱼优化算法训练神经网络（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5iYl5dw)
+##### [基于萤火虫算法优化的BP神经网络预测模型（Matlab代码实现）](https://mbd.pub/o/bread/Y5aYlZpq)
+##### [基于文化算法优化的BP神经网络预测研究（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZ1w)
+##### [使用BP神经网络和Elman Net预测航班价格（Matlab代码实现）](https://mbd.pub/o/bread/Y56bm59x)
+##### [基于人工大猩猩部队优化CNN-LSTM（GTO-CNN-LSTM）多变量时间序列预测（Matlab代码实现）](https://mbd.pub/o/bread/Y56blpZt)
+##### [基于北方苍鹰算法优化LSTM（NGO-LSTM）研究（Matlab代码实现）](https://mbd.pub/o/bread/Y56blZ9t)
+##### [基于麻雀算法优化的深度极限学习机DLM的预测算法（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Wk51x)
+##### [基于帝企鹅算法优化BP神经网络实现数据预测（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5WZmJxw)
+##### [极限学习机ELM回归预测（MATLAB代码实现）](https://mbd.pub/o/bread/mbd-Y52blZ1r)
+##### [用于非线性时间序列预测的稀疏局部线性和邻域嵌入（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZJWTmplp)
+##### [基于遗传算法的BP神经网络技术的应用（Matlab代码实现）](https://mbd.pub/o/bread/Y52blZxy)
+##### [基于模型预测人工势场的船舶运动规划方法，考虑复杂遭遇场景下的COLREG（Matlab代码实现）](https://mbd.pub/o/bread/Y5uamZ1q)
+##### [基于模糊BP神经网络轨迹跟踪（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZJmUm5Zx)
+##### [基于贝叶斯优化CNN研究（Matlab代码实现）](https://mbd.pub/o/bread/ZJWXmpdv)
 
 
 # 四、路径规划、机器人、背包问题专栏
@@ -695,7 +695,9 @@
 
 # 五、车间调度、车辆调度专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+##### [【车间调度】基于GA/PSO/SA/ACO/TS优化算法的车间调度比较（Matlab代码实现）](https://mbd.pub/o/bread/Y5aak5Zx)
 ##### [基于遗传算法的柔性车间调度优化（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5ublpls)
+##### [基于多动作深度强化学习的柔性车间调度研究（Python代码实现）](https://mbd.pub/o/bread/ZJWTm59x)
 ##### [基于改进遗传算法的柔性车间调度（Matlab代码实现）](https://mbd.pub/o/bread/Y5eYm59q)
 ##### [基于蚂蚁优化算法的柔性车间调度研究（Python代码实现）](https://mbd.pub/o/bread/mbd-ZJWUkpZv)
 ##### [基于遗传算法的柔性生产调度研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZJWUkpZp)
@@ -711,6 +713,7 @@
 ##### [基于多目标遗传算法的多技能员工排班调度（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5eZk5hp)
 ##### [【VRP问题】基于帝国企鹅优化算法求解冷链配送物流车辆调度优化研究](https://mbd.pub/o/bread/mbd-Y5Wak5tw)
 ##### [基于模拟退火 (SA)求解车辆配送 （VPR） (Matlab代码实现） ](https://mbd.pub/o/bread/mbd-Y5eYlZht)
+##### [基于改进模因算法的考虑工人安排的分布式柔性作业车间调度问题（Matlab代码实现）](https://mbd.pub/o/bread/Y52amJZs)
 
 # 六、无人机、无人车
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
