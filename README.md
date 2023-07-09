@@ -25,7 +25,7 @@
 
 
 # :3rd_place_medal:欢迎您的到来:
-### QQ邮箱：2166504845@qq.com  （如有侵权和违权请联系删除）
+### QQ邮箱：2166504845@qq.com  （如有侵权/违权/违规请告知，我们会尽快删除，谢谢）
 #### [:v:【1】微信公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
 ![image](httpsgithub.comtaoran1998-blobmainimage.png)
 #### [:v:【2】知乎](https://www.zhihu.com/people/qing-si-wei-shui-wu)
@@ -49,6 +49,7 @@
 ##### [考虑阶梯式碳交易与供需灵活双响应的综合能源系统优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a707b8888.pg1)
 ##### [【鲁棒优化、机会约束】实时机会约束决策及其在电力系统中的应用（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1591b13888.pg1)
 ##### [【机会约束、鲁棒优化】具有排放感知型经济调度中机会约束和鲁棒优化研究【IEEE6节点、IEEE118节点算例】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1590b13888.pg1)
+##### [【鲁棒优化、机会约束】不确定风功率接入下电 - 气互联系统的协同经济调度(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2108b16888.pg1)
 ##### [【鲁棒优化、机会约束】具有分布鲁棒联合机会约束的能源和储备调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1475b16888.pg1)
 ##### [【鲁棒优化、大M法、C&CG算法】计及风、光、负荷不确定性两阶段鲁棒优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1184b13888.pg1)
 ##### [基于线性准则的考虑风力发电不确定性的分布鲁棒优化机组组合（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2101b9888.pg1)
@@ -61,10 +62,12 @@
 ##### [基于广义benders分解法的综合能源系统优化规划（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1261b13888.pg1)
 ##### [计及需求侧响应日前、日内两阶段鲁棒备用优化(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1188b7666.pg1)
 ##### [【不确定性研究】基于信息间隙决策理论的综合能源系统优化调度研究【改进粒子群优化算法求解】（Matlab代码实现)](https://bs.97ta.xyz/p.php?8tp=t4.9681a1150b16888.pg1)
+##### [可再生能源的不确定性和储能系统的时间耦合的鲁棒性和非预期性区域微电网的运行可行性研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2114b18888.pg1)
 ##### [计及源荷不确定性的综合能源生产单元运行调度与容量配置优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1260b19999.pg1)
 ##### [考虑多能负荷不确定性的区域综合能源系统鲁棒规划(Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1600b13888.pg1)
 ##### [【鲁棒优化、无功优化】两阶段鲁棒优化的主动配电网动态无功优化【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1480b16888.pg1)
 ##### [【分布鲁棒和多目标非负矩阵分解】基于DR-NMF的对NMF问题噪声模型的识别鲁棒性研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1936b18888.pg1)
+##### [使用鲁棒优化的定价策略进行微电网不平衡管理研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2120b13888.pg1)
 ##### [可再生能源的不确定性和储能系统的时间耦合的鲁棒性和非预期性区域微电网的运行可行性研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1939b18888.pg1)
 ##### [考虑柔性负荷的综合能源系统低碳经济优化调度(考虑碳交易机制）（Matlab代码+数据+文章详细讲解）](https://bs.97ta.xyz/p.php?8tp=t4.9681a708b9999.pg1)
 ##### [【电力系统优化调度】计及源荷两侧不确定性的含风电电力系统低碳调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a709b6666.pg1)
@@ -120,7 +123,7 @@
 ##### [多区域综合能源系统热网建模及系统运行优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1483b16888.pg1)
 ##### [考虑碳交易机制的园区综合能源系统电热协同运行优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a740b3999.pg1)
 ##### [基于粒子群优化算法的冷热电联供型综合能源系统运行优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a741b9999.pg1)
-
+🚩
 ##### [计及碳排放成本的电-气-热综合能源系纷充节点能价计算方法研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a742b9999.pg1)
 ##### [多种调度模式下的光储电站经济性最优储能容量配置分析(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a743b9999.pg1)
 ##### [计及绿证交易及碳排放的含智能楼宇微网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a744b9999.pg1)
@@ -140,12 +143,13 @@
 ##### [基于雨流计数法的源-荷-储双层协同优化配置研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1598b18888.pg1)
 ##### [【压缩空气储能】非补燃压缩空气储能系统集成的零碳排放综合能源优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2094b16888.pg1)
 ##### [考虑实时市场联动的电力零售商鲁棒定价策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a749b11999.pg1)
+##### [基于条件风险价值CVaR的微网动态定价与调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2109b18888.pg1)
 ##### [两级电力市场环境下计及风险的省间交易商最优购电模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a750b6666.pg1)
 ##### [基于组合双向拍卖的共享储能机制研究(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1148b9888.pg1)
 ##### [【节点边际电价】机组运行约束对机组节点边际电价的影响分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1718b13888.pg1)
 ##### [基于粒子群优化算法的面向综合能源园区的三方市场主体非合作交易方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1179b17888.pg1)
 ##### [独立储能的现货电能量与调频辅助服务市场出清协调机制（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a901b9999.pg1)
-
+🏃‍♂️
 ##### [基于激励型需求响应（Python实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a751b2566.pg1)
 ##### [配电网与微电网中虑需求响应的研究【基于价格型需求响应】（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a752b8888.pg1)
 ##### [计及需求响应的基于改进天牛须算法算法的孤岛微电网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a753b8888.pg1)
@@ -168,8 +172,9 @@
 ##### [计及需求侧响应日前、日内两阶段鲁棒备用优化(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1188b7666.pg1)
 ##### [【需求响应】基于进化算法的住宅光伏电池系统需求响应研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1482b15888.pg1)
 ##### [利用电价套利运行策略研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2095b10888.pg1)
+##### [日前、日内两阶段需求响应热电综合能源联合调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2121b16888.pg1)
 
-
+🖥️
 ### 1.2 微电网、智能电网系列
 ##### [【微电网】基于改进粒子群算法的微电网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1145b15000.pg1)
 ##### [基于布谷鸟优化算法(CS)在微电网优化中的应用研究](https://bs.97ta.xyz/p.php?8tp=t4.9681a1714b13888.pg1)
@@ -190,8 +195,10 @@
 ##### [分布式光伏消纳的微电网群共享储能配置策略研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1941b16888.pg1)
 ##### [微电网调度（风、光、储能、电网交互）（Matlab&Python代码实现）【粒子群、优化器】](https://bs.97ta.xyz/p.php?8tp=t3.9681a772b8888.pg1)
 ##### [基于模型预测算法的混合储能微电网双层能量管理系统研究(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a773b11999.pg1)
+##### [基于条件风险价值CVaR的微网动态定价与调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2109b18888.pg1)
 ##### [实时电价机制下交直流混合微网优化运行方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a978b7666.pg1)
 ##### [基于两阶段鲁棒优化算法的微网多电源容量配置(Matlab）](https://bs.97ta.xyz/p.php?8tp=t3.9681a891b8888.pg1)
+##### [可再生能源的不确定性和储能系统的时间耦合的鲁棒性和非预期性区域微电网的运行可行性研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2114b18888.pg1)
 ##### [基于多能互补的热电联供型微网优化运行(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a775b8888.pg1)
 ##### [冷热电气多能互补的微能源网鲁棒优化调度(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a776b9999.pg1)
 ##### [基于改进雷达图模型的热电联供型微网系统多目标优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a925b11999.pg1)
@@ -199,6 +206,7 @@
 ##### [微电网两阶段鲁棒优化问题（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=PrCpPOYWxN)
 ##### [微电网两阶段鲁棒优化经济调度方法[2]（Matlab代码实现）](https://ttaozhi.com/t/p.html?id=voVZug3bT3)
 ##### [微电网两阶段鲁棒优化经济调度方法[3]【升级优化版本】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1011b9999.pg1)
+##### [使用鲁棒优化的定价策略进行微电网不平衡管理研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2120b13888.pg1)
 ##### [计及需求响应的基于改进天牛须算法算法的孤岛微电网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a778b9999.pg1)
 ##### [计及需求响应和电能交互的多主体综合能源系统主从博弈优化调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2091b23888.pg1)
 ##### [计及调度经济性的光热电站储热微网模型容量配置方法【IEEE30节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1043b9999.pg1	)
@@ -206,7 +214,7 @@
 ##### [基于储能电站服务的冷热电多微网系统双层优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a780b9999.pg1)
 ##### [含冰蓄冷空调的冷热电联供型微网多时间尺度优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a736b9999.pg1)
 ##### [基于多时间尺度滚动优化的多能源微网双层调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a724b11999.pg1)
-
+🐳 
 ##### [计及调峰主动性的风、光、水、火、储多能系统互补协调优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a782b9999.pg1)
 ##### [平抑风电波动的电-氢混合储能容量优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1717b16888.pg1)
 ##### [【水光互补优化调度】基于非支配排序遗传算法的多目标水光互补优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1308b16888.pg1)
@@ -255,7 +263,7 @@
 ##### [智能电网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a812b4500.pg1)
 ##### [智能微电网研究（Python&Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a892b5666.pg1)
 ##### [【孤岛辨识】基于可达性矩阵的智能配电网分区及孤岛辨识方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1946b16888.pg1)
-
+🎭
 ### 1.3 电动车、抽水蓄能、储能、调峰、调频、电化学系列
 ##### [考虑电动汽车灵活性的微网多时间尺度协调调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a813b11999.pg1)
 ##### [基于 V2G 技术的电动汽车实时调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a814b5666.pg1)
@@ -288,25 +296,32 @@
 ##### [蒙特卡罗模拟电动汽车的电力需求（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a827b5666.pg1)
 ##### [电动汽车有序无序充放电的优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a828b5666.pg1)
 ##### [配电网中电动汽车充电的最优调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a829b6666.pg1)
+##### [混合动力电动车优化调度与建模（发动机，电机，电池组等组件建模）（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2115b16888.pg1)
 ##### [博弈论在电动车和电网系统中分布式模型预测控制研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1147b9999.pg1)
 ##### [基于强化学习的电动汽车的储能系统优化控制和存储容量优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a830b6666.pg1)
 ##### [电动车|基于粒子群优化算法的电动车调度优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a832b5666.pg1)
 ##### [电动汽车电池换电站选址与定容（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a833b6666.pg1)
 ##### [Matlab|模拟电动汽车的充放电【充电顺序，波动发电，电池缓冲】](https://bs.97ta.xyz/p.php?8tp=t4.9681a834b7666.pg1)
+##### [【电动车优化调度】基于模型预测控制(MPC)的凸优化算法的电动车优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2116b6666.pg1)
 ##### [Matlab|基于粒子群优化算法及鲁棒MPPT控制器提高光伏并网的效率](https://bs.97ta.xyz/p.php?8tp=t2.9681a835b8888.pg1)
-
+🚀
 ##### [【抽水蓄能电站】基于粒子群优化算法的抽水蓄能电站的最佳调度方案研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a836b9999.pg1)
 ##### [独立储能的现货电能量与调频辅助服务市场出清协调机制（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a901b9999.pg1)
+##### [电池SOC和动力电池OCV功率联合估计研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2125b18888.pg1)
 ##### [电力系统储能调峰、调频模型研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1492b13888.pg1)
+##### [考虑储能的电价套利收益模型研究（Matlab代码实现)](https://bs.97ta.xyz/p.php?8tp=t1.9681a2119b10888.pg1)
 ##### [参与辅助服务的用户侧储能优化配置及经济分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1481b16888.pg1)
 ##### [【EI复现】参与调峰的储能系统配置方案及经济性分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1493b38888.pg1)
 ##### [基于蓄电池进行调峰和频率调节研究【超线性增益的联合优化】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1116b9999.pg1)
+##### [【完美复现】面向配电网韧性提升的移动储能预布局与动态调度策略【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2118b28888.pg1)
+##### [基于粒子群优化算法的配电网光伏储能双层优化配置模型[IEEE33节点]（选址定容）(Matlab代码实现)](https://bs.97ta.xyz/p.php?8tp=t2.9681a2123b16888.pg1)
 ##### [【EI复现】参与调峰的储能系统配置方案及经济性分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1493b38888.pg1)
 ##### [【调峰】储能辅助电力系统调峰的容量需求研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1845b9999.pg1)
 ##### [【一次调频】考虑储能电池参与一次调频技术经济模型的容量配置方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1846b16888.pg1)
 ##### [平抑风电波动的电-氢混合储能容量优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1717b16888.pg1)
 ##### [【压缩空气储能】非补燃压缩空气储能系统集成的零碳排放综合能源优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2094b16888.pg1)
-
+##### [【状态估计】基于数据模型融合的电动车辆动力电池组状态估计研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2126b18888.pg1)
+📝
 ##### [二氧化碳捕获和电化学转化（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a893b9999.pg1)
 ##### [基于卡尔曼滤波的SOC估算锂离子电池优化（Matlab代码+数据+文章讲解）](https://bs.97ta.xyz/p.php?8tp=t2.9681a894b9999.pg1)
 ##### [基于LSTM和SVM的设备故障诊断（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a895b8888.pg1)
@@ -315,9 +330,10 @@
 ##### [集成抽水蓄能反渗透系统优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a898b9999.pg1)
 ##### [基于优化的启发式集成低能耗自适应集群层次结构协议（OHILEACH）（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a899b8888.pg1)
 ##### [磁实验比较-反激式变压器（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a900b9999.pg1)
+##### [电池SOC和动力电池OCV功率联合估计研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2125b18888.pg1)
 ##### [太阳能电池输出预测（Matlab和Python）](https://bs.97ta.xyz/p.php?8tp=t2.9681a912b6666.pg1)
 ##### [【SCI一区】互联燃料电池混合动力汽车通过信号交叉口的生态驾驶双层凸优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2102b18888.pg1)
-
+🧩
 ### 1.4 负荷预测、场景削减、集群划分系列
 ##### [负荷预测|一种改进支持向量机的电力负荷预测方法研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a839b6666.pg1)
 ##### [【光伏功率预测】基于EMD-PCA-LSTM的光伏功率预测模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a840b13999.pg1)
@@ -357,7 +373,7 @@
 ##### [基于长短期记忆网络的电力负荷预测（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a853b3999.pg1)
 ##### [【电力系统负荷预测】基于粒子群算法优化支持向量机预测电力负荷（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a851b6666.pg1)
 ##### [电力预测|基于新型MDPSO-SVR混合模型的电力预测特征选择（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a850b8888.pg1)
-
+🔙
 ##### [拉丁超立方体抽样（LHS）研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52Xkpts)
 ##### [基于 LHS 、 BR 与K-means的风电出力场景分析研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1603b16888.pg1)
 ##### [【风光场景生成】基于改进ISODATA的负荷曲线聚类算法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1039b9999.pg1)
@@ -374,14 +390,15 @@
 ##### [【场景生成与削减】基于蒙特卡洛法场景生成及启发式同步回带削减风电、光伏、负荷研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1265b7666.pg1)
 ##### [【场景削减】基于 Kantorovich 距离的 SBR 算法场景削减研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1494b9999.pg1)
 ##### [【场景生成与研究】考虑时序相关性MC的场景生成与削减研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1602b9999.pg1)
-
+👥
 ##### [【集群划分】基于kmeans的电压调节的集群划分【IEEE33节点】](https://bs.97ta.xyz/p.php?8tp=t3.9681a1715b13888.pg1)
 ##### [【光伏集群、需求响应】市场模式下光伏用户群的电能共享与需求响应模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2096b18888.pg1)
-
+💡
 ### 1.5 状态估计、非侵入式负荷系列
 ##### [【状态估计】基于随机方法优化PMU优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a869b6666.pg1)
 ##### [【状态估计】基于PMU的多回路配电系统状态估计（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a870b5666.pg1)
 ##### [【鲁棒、状态估计】用于电力系统动态状态估计的鲁棒迭代扩展卡尔曼滤波器研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1850b28888.pg1)
+##### [【状态估计】基于数据模型融合的电动车辆动力电池组状态估计研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2126b18888.pg1)
 ##### [【状态估计】电力系统状态估计的虚假数据注入攻击建模与对策（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1274b13888.pg1)
 ##### [状态估计|基于 MMSE 的分析估计器的不确定电力系统分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a871b9999.pg1)
 ##### [【状态估计】基于二进制粒子群优化 （BPSO） 求解最佳 PMU优化配置研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a872b6666.pg1)
@@ -404,16 +421,19 @@
 ##### [【状态估计】贝叶斯和卡尔曼滤波研究（Python&Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1495b9999.pg1)
 ##### [配电网PMU优化配置与状态估计（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a882b8888.pg1)
 ##### [【状态估计】基于增强数值稳定性的无迹卡尔曼滤波多机电力系统动态状态估计（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1185b18888.pg1)
+##### [【状态估计】在线非线性/非高斯贝叶斯跟踪的粒子滤波器研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2117b18888.pg1)
 ##### [基于卡尔曼滤波的SOC估算锂离子电池优化（Matlab代码+数据+文章讲解）](https://bs.97ta.xyz/p.php?8tp=t1.9681a884b9999.pg1)
 ##### [配电网的故障诊断（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a885b6666.pg1)
-
+##### [【发电厂】发电厂模型验证应用于电网事件在线性能监测【相量测量单元 （PMU） 数据对电网事件的在线性能监控】研究（Matlab&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2127b23888.pg1)
+🌟
 ##### [【非侵入式负载监测】低采样率电动汽车充电的无训练非侵入式负载监测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a867b8888.pg1)
 ##### [基于KPCA 和 STFT 非侵入式负荷监控（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a868b8888.pg1)
-
+🌟
 ### 1.6 经济调度、无功优化、Copula系列
 ##### [多元宇宙算法及其在电力系统环境经济调度的应用（Matlab实现）](https://mbd.pub/o/bread/mbd-YpuWmJxr)
 ##### [多元宇宙算法求解电力系统多目标优化问题（Matlab实现）【IEEE140节点】](https://mbd.pub/o/bread/mbd-Yp2Zl5lw)
 ##### [基于多目标灰狼算法的冷热电联供型微网低碳经济调度（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5yZlJdv)
+##### [【鲁棒优化、机会约束】不确定风功率接入下电 - 气互联系统的协同经济调度(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2108b16888.pg1)
 ##### [改进的多目标差分进化算法在电力系统环境经济调度中的应用（Python代码实现）](https://mbd.pub/o/bread/mbd-YpuVl5py)
 ##### [基于共享储能电站的工业用户日前优化经济调度（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5ycmZxx)
 ##### [基于蝙蝠算法实现电力系统经济调度（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5yYmJ1w)
@@ -426,10 +446,11 @@
 ##### [热电联产经济调度（python代码实现）](https://mbd.pub/o/bread/mbd-YpqWk5py)
 ##### [基于改进量子粒子群算法的电力系统经济调度（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Yp2Zl59w)
 ##### [基于粒子群算法的电力系统无功优化研究(IEEE14节点)（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Yp6ZmJ9w)
-
+🌟
 ##### [计及光伏波动性的主动配电网有功无功协调优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1041b9999.pg1)
 ##### [【鲁棒优化、无功优化】两阶段鲁棒优化的主动配电网动态无功优化【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1480b16888.pg1)
 ##### [【无功优化】考虑泄流效应的光伏并网点电压系统侧无功优化（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56VlpZp)
+##### [【无功优化】电网故障下分布式能源系统多目标优化[并网转换器（GCC）]（Matlab代码&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2122b18888.pg1)
 ##### [【无功优化】含分布式电源的配电网日前两阶段优化调度模型(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a609b9999.pg1&8_t=74)
 ##### [【无功优化】基于改进遗传算法的电力系统无功优化研究【IEEE30节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1181b8888.pg1)
 ##### [计及光伏电站快速无功响应特性的分布式电源优化配置方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1006b9999.pg1)
@@ -437,7 +458,9 @@
 ##### [基于多目标粒子群优化算法的计及光伏波动性的主动配电网有功无功协调优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1044b8888.pg1)
 ##### [【无功优化】基于改进教与学算法的配电网无功优化【IEEE33节点】（Matlab代码时候）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1840b13888.pg1)
 ##### [【无功优化】基于多目标差分进化算法的含DG配电网无功优化模型【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1275b9999.pg1)
+##### [采用SRF算法的分流有源滤波器【并联有源滤波器的仿真电路可降低谐波和无功功率】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2124b23888.pg1)
 
+🌟
 ##### [基于变化点 copula 优化算法中的贝叶斯研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5uZmpxq)
 ##### [MATLB|基于Copula理论的多风电场风电预测误差时空相关性建模研究](https://mbd.pub/o/bread/mbd-Yp6Tmpts)
 ##### [【Copula】基于二元Frank-Copula函数的风光出力场景生成方法【考虑风光出力的不确定性和相关性】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a860b16600.pg1)
@@ -445,7 +468,7 @@
 ##### [【风光场景生成】基于改进ISODATA的负荷曲线聚类算法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1039b9999.pg1)
 ##### [基于蓄电池进行调峰和频率调节研究【超线性增益的联合优化】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1116b9999.pg1)
 
-
+🌟
 ### 1.7 电力系统潮流和最优潮流
 ##### [电力系统碳排放流的计算方法(Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5yZmJdv)
 ##### [【前推回代法】含有分布式电源的三相不平衡配电网潮流计算【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1115b6666.pg1)
@@ -477,7 +500,7 @@
 ##### [基于牛顿方法在直流微电网潮流研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Yp2XlZZq)
 ##### [高压直流输电（HVDC）的最优潮流(OPF)（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Yp2XlJ5x)
 ##### [基于改进遗传算法把最优功率损耗降至最低（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Yp2WmZly)
-
+🌟
 ### 1.8 配电网、分布式能源的选址与定容系列
 ##### [【遗传算法、粒子群、改进遗传算法】基于智能算法的电力系统电网最优规划方案的研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1183b9999.pg1)
 ##### [考虑自动重合闸与分布式能源的配电网可靠性评估研究(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2090b7998.pg1)
@@ -485,6 +508,8 @@
 ##### [基于主从博弈的主动配电网阻塞管理（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1272b16888.pg1)
 ##### [分布式电源对配电网故障定位的影响（Python代码实现）](https://mbd.pub/o/bread/mbd-YpyVkplq)
 ##### [考虑分布式电源运行特性的有源配电网智能软开关SOP规划方法【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a926b8888.pg1)
+##### [径向配电网重构的一种简单快速的启发式方法【IEEE33节点、69节点、84节点、136节点、417节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2110b10888.pg1)
+##### [【孤岛划分】分布式能源接入弹性配电网模型研究【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2128b13888.pg1)
 ##### [基于遗传算法的配电网故障定位(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a902b6666.pg1)
 ##### [含分布式电源的配电网可靠性评估研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1149b9999.pg1)
 ##### [含分布式电源的配电网日前两阶段优化调度模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1178b13888.pg1)
@@ -494,6 +519,7 @@
 ##### [【SOP 】配电网故障重构方法研究【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a947b6666.pg1)
 ##### [【sop】基于灵敏度分析的有源配电网智能软开关优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1479b13999.pg1)
 ##### [【sop】基于灵敏度分析的有源配电网智能软开关优化配置[升级1]（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1605b16888.pg1)
+##### [【完美复现】面向配电网韧性提升的移动储能预布局与动态调度策略【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2118b28888.pg1)
 ##### [【故障定位】基于粒子群优化算法的故障定位及故障区段研究【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a906b7666.pg1)
 ##### [【故障定位】基于多元宇宙算法的主动配电网故障定位方法研究(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1278b9999.pg1)
 ##### [【配电网故障重构SOP】基于二阶锥松弛的加光伏风机储能进行的配电网故障处理和重构【考虑最优潮流】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1276b16888.pg1)
@@ -520,6 +546,7 @@
 ##### [基于贝叶斯推理估计稳态 （ST） 和非稳态 （NS） LPIII 模型分布拟合到峰值放电（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5yVlp9w)
 ##### [考虑设备动作损耗的配电网分布式电压无功优化（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5qYmZ1x)
 ##### [二阶锥松弛配电网优化（Matlab代码实现）](二阶锥松弛配电网优化)
+##### [基于粒子群优化算法的配电网光伏储能双层优化配置模型[IEEE33节点]（选址定容）(Matlab代码实现)](https://bs.97ta.xyz/p.php?8tp=t2.9681a2123b16888.pg1)
 ##### [【有功-无功协调优化】基于改进多目标粒子群优化算法（小生境粒子群算法）的配电网有功-无功协调优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1040b9999.pg1)
 ##### [基于蜻蜓优化算法的配电网重构求解（Python代码实现）【IEEE123节点算例】](https://mbd.pub/o/bread/mbd-Yp6Vk5pt)
 ##### [配电网重构|基于新颖的启发式算法SOE的随机(SDNR)配电网重构（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Yp6Ulppu)
@@ -533,7 +560,7 @@
 ##### [基于粒子群由优化算法对微网中的分布式电源进行最优调度实现配电网稳定运行（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZJWXl5pw)
 ##### [【无功优化】基于改进教与学算法的配电网无功优化【IEEE33节点】（Matlab代码时候）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1840b13888.pg1)
 ##### [计及光伏波动性的主动配电网有功无功协调优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1041b9999.pg1)
-
+🌟
 ### 1.9 机组组合、电能质量
 ##### [【机组组合】基于Benders分解算法解决混合整数规划问题——机组组合问题（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Wk5xw)
 ##### [基于混合规划求解机组组合（yalmip+Cplex实现）](https://mbd.pub/o/bread/mbd-YpqUmZ1q)
@@ -541,25 +568,29 @@
 ##### [电力系统机组组合（IEEE14节点、IEEE30节点、IEEE118节点）（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5WTl5tr)
 ##### [【节点边际电价】机组运行约束对机组节点边际电价的影响分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1718b13888.pg1)
 ##### [【机组组合】基于数据驱动的模型预测控制电力系统机组组合优化【IEEE24节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1484b9999.pg1)
-
+🌟
 ##### [基于混沌集成决策树的电能质量复合扰动识别（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1594b16888.pg1)
 ##### [【电能质量扰动】基于ML和DWT的电能质量扰动分类方法研究（Matlab实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1943b13888.pg1)
 ##### [【扰动识别】S变换电能质量扰动识别（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1595b16888.pg1)
-
+🌟
 ### 1.10 Simulink专栏
-## 代码事宜，私信博主QQ551705769
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [不平衡电网条件下基于变频器DG操作的多目标优化研究（Matlab代码&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2099b23888.pg1)
 ##### [基于可再生能源的微电网研究（Simulink）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1606b13888.pg1)
 ##### [并网光伏发电系统（simulink仿真）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1607b8888.pg1)
 ##### [分布式和可再生系统建模（simulink）](https://ttaozhi.com/t/p.html?id=7PpFSzjGIa)
 ##### [电力系统——基于10机39节点的电力系统仿真（Matlab、Simulink）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1608b13888.pg1)
 ##### [微电网（风、光、储能、需求响应）【Simulink 仿真实现】](https://bs.97ta.xyz/p.php?8tp=t2.9681a1608b13888.pg1)
-##### [电动汽车双向V2G和G2V（Simulink）](https://ttaozhi.com/t/p.html?id=FTgpWVQRih)
-##### [电力系统IEEE33节点Simulink仿真研究（Matlab实现）](https://ttaozhi.com/t/p.html?id=sNh7x2s7lR)
+##### [电动汽车双向V2G和G2V（Simulink）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2112b10888.pg1)
+##### [电力系统IEEE33节点Simulink仿真研究（Matlab实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2111b10888.pg1)
 ##### [【三相STATCOM】使用D-Q控制的三相STATCOM技术【三相VSI STATCOM为R-L负载提供无功功率】（Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2097b23888.pg1)
-
+##### [三相光伏电站(Simulink实现)](https://bs.97ta.xyz/p.php?8tp=t4.9681a2113b13888.pg1)
+##### [【无功优化】电网故障下分布式能源系统多目标优化[并网转换器（GCC）]（Matlab代码&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2122b18888.pg1)
+##### [采用SRF算法的分流有源滤波器【并联有源滤波器的仿真电路可降低谐波和无功功率】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2124b23888.pg1)
+##### [【发电厂】发电厂模型验证应用于电网事件在线性能监测【相量测量单元 （PMU） 数据对电网事件的在线性能监控】研究（Matlab&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2127b23888.pg1)
+🌟
 ### 1.11 电气期刊论文数据
-## 代码事宜，私信博主QQ551705769
+### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [【电气数据】光伏数据](https://ttaozhi.com/t/p.html?id=VaZCI5j1hD)
 ##### [【数据下载】光伏数据（电气期刊论文）](https://ttaozhi.com/t/p.html?id=ZT0s845AcU)
 ##### [【电气数据】风电数据](https://ttaozhi.com/t/p.html?id=mDaIKWjsVi)
@@ -570,7 +601,7 @@
 ##### [电气数据IEEE118（含风能太阳能）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1609b8888.pg1)
 ##### [法国某家庭真实用电负荷数据](https://bs.97ta.xyz/p.php?8tp=t1.9681a704b1.pg0)
 
-
+🌟
 # 二、智能优化算法、优化调度专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ## 2.1 单目标系列
