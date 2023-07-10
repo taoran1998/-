@@ -13,7 +13,7 @@
 ###### :2nd_place_medal:1.10 Simulink专栏
 ###### :2nd_place_medal:1.11 电气期刊论文数据: :1234:
 ###### :1st_place_medal:2 智能算法【单目标、多目标、改进算法】、优化调度专栏:100:
-###### :1st_place_medal:3 机器学习、神经网络预测与分类专栏:b:
+###### :1st_place_medal:3 机器学习、神经网络预测与分类专栏
 ###### :1st_place_medal:4 路径规划、机器人路径规划专栏:+1:
 ###### :1st_place_medal:5 车间调度、车辆调度专栏::8ball:
 ###### :1st_place_medal:6 无人机、无人车专栏::abcd:
@@ -27,13 +27,8 @@
 
 ### :3rd_place_medal:欢迎您的到来:
 ###### QQ邮箱：2166504845@qq.com  （如有侵权/违权/违规请告知，我们会尽快删除，谢谢）
-#### [:v:【1】微信公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
+#### [:v:微信公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
 ![image](https://github.com/taoran1998/-/blob/main/image.png)
-#### [:v:【2】知乎](https://www.zhihu.com/people/qing-si-wei-shui-wu)
-#### [:v:【3】B站](https://space.bilibili.com/326173720)
-#### [:v:【4】阿里云](https://developer.aliyun.com/profile/vnux7hrgeze4y?spm=a2c6h.12873639.article-detail.65.1de05e6c9JrK9Q)
-#### [:v:【5】51CTO博客](https://blog.51cto.com/u_15739983)
-#### [:v:【6】CSDN：](https://blog.csdn.net/weixin_46039719?type=blog)
 ##### [:+1:<1>Matlab代码运行基础文章讲解](https://blog.csdn.net/weixin_46039719/article/details/126939450)
 ##### [:+1:<2>文章搜索及文章讲解：](https://blog.csdn.net/weixin_46039719/article/details/127816178?spm=1001.2014.3001.5502)
 ##### [:+1:<3>yalmip和cplex安装步骤(Matlab)](https://blog.csdn.net/weixin_46039719/article/details/126352221)
