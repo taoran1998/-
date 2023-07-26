@@ -406,6 +406,7 @@
 ##### [【状态估计】带观测滞后多传感器系统的改进协方差交叉融合Kalman滤波器（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1005b9999.pg1)
 ##### [电力系统的虚假数据注入攻击和MTD系统研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1851b6666.pg1)
 ##### [改进的粒子滤波算法及其应用研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a873b8888.pg1)
+##### [基于扩展(EKF)和无迹卡尔曼滤波(UKF)的电力系统动态状态估计(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2226b18888.pg1)
 ##### [【状态估计】基于FOMIAUKF、分数阶模块、模型估计、多新息系数的电池SOC估计研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZJuXlJ1v)
 ##### [【PMU】基于两种模拟退火方法、两种图论过程和递归安全N算法六种算法的最优PMU布置（OPP）研究（Matlab代码实现](https://bs.97ta.xyz/p.php?8tp=t1.9681a874b6666.pg1)
 ##### [【DDoS攻击检测】基于改进的非洲秃鹫优化算法和一种新的DDoS攻击检测传递函数的特征选择方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2098b18888.pg1)
