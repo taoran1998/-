@@ -30,11 +30,11 @@
 #### [:v:微信公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
 ![image](https://github.com/taoran1998/-/blob/main/image.png)
 ##### [:+1:<1>Matlab代码运行基础文章讲解](https://blog.csdn.net/weixin_46039719/article/details/126939450)
-##### [:+1:<2>文章搜索及文章讲解：](https://blog.csdn.net/weixin_46039719/article/details/127816178?spm=1001.2014.3001.5502)
-##### [:+1:<3>yalmip和cplex安装步骤(Matlab)](https://blog.csdn.net/weixin_46039719/article/details/126352221)
-##### [:+1:<4>最详细matlab 2018a安装教程步骤：：](https://blog.csdn.net/weixin_46039719/article/details/123340003)
+##### [:+1:<2>yalmip和cplex安装步骤(Matlab)](https://blog.csdn.net/weixin_46039719/article/details/126352221)
+##### [:+1:<3>最详细matlab 2018a安装教程步骤：：](https://blog.csdn.net/weixin_46039719/article/details/123340003)
 ### [:abacus:免责声明](https://mp.weixin.qq.com/s/-dYzn02XOz1iEPh7rpsfXA)
 ### [:abacus:完整代码下载步骤[百度网盘]](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
+### 【温馨提示】链接点开右下角支付宝扫码购买，文章结果和讲解见公众号，如果是论文复现会说清楚的，有的文章只是参考文献喔。售出一概不退款。谢谢。
 
 ## 一、电气专栏
 ### 1.1 综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
