@@ -178,7 +178,7 @@
 ### 1.2 微电网、智能电网系列
 ##### [【微电网】基于改进粒子群算法的微电网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1145b15000.pg1)
 ##### [基于布谷鸟优化算法(CS)在微电网优化中的应用研究](https://bs.97ta.xyz/p.php?8tp=t4.9681a1714b13888.pg1)
-##### [微电网经济调度（风、光、储能、柴油机、电网交互）（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a764b4566.pg1)
+##### [微电网经济调度（风、光、储能、柴油机、电网交互）（Matlab代码实现）](https://mbd.pub/o/bread/mbd-YpyYkp9t)
 ##### [基于粒子群优化算法的微电网调度(光伏、储能、电动车、电网交互)（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a765b2999.pg1)
 ##### [【微电网】并网微电网运行经济性研究（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a766b7888.pg1)
 ##### [基于风光储能和需求响应的微电网日前经济调度(Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a767b19999.pg1)
@@ -217,7 +217,7 @@
 🐳 
 ##### [计及调峰主动性的风、光、水、火、储多能系统互补协调优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a782b9999.pg1)
 ##### [平抑风电波动的电-氢混合储能容量优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1717b16888.pg1)
-##### [【水光互补优化调度】基于非支配排序遗传算法的多目标水光互补优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1308b16888.pg1)
+##### [【水光互补优化调度】基于非支配排序遗传算法的多目标水光互补优化调度（Matlab代码实现）](https://mbd.pub/o/bread/ZJyWlJ1w)
 ##### [光和储能结合模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a784b6666.pg1)
 ##### [风电最大化消纳的热电联产机组联合优化控制(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a785b9999.pg1)
 
