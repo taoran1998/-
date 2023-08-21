@@ -343,7 +343,7 @@
 ##### [【光伏功率预测】基于EMD-PCA-LSTM的光伏功率预测模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a840b13999.pg1)
 ##### [【负荷预测】基于VMD-SSA-LSTM光伏功率预测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1263b16888.pg1)
 ##### [【VMD-SSA-LSSVM】基于变分模态分解与麻雀优化Lssvm的负荷预测【多变量】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1277b13888.pg1)
-##### [【风电、负荷预测】基于量子粒子群算法（QPSO）优化LSTM的风电、负荷等时间序列预测算法(Matlab代码实现)](https://bs.97ta.xyz/p.php?8tp=t4.9681a2321b13888.pg1)
+##### [【风电、负荷预测】基于量子粒子群算法（QPSO）优化LSTM的风电、负荷等时间序列预测算法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2321b13888.pg1)
 ##### [【风电预测】考虑预测误差不确定性的风电预测研究（matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a943b9999.pg1)
 ##### [分布式光伏发电计及气象因子及出力预测方法研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a841b6666.pg1)
 ##### [车-电-路网时空分布负荷预测研究（Matlab代码）](https://bs.97ta.xyz/p.php?8tp=t3.9681a842b18888.pg1)
