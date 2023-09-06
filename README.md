@@ -34,7 +34,7 @@
 ##### [:+1:<3>最详细matlab 2018a安装教程步骤：：](https://blog.csdn.net/weixin_46039719/article/details/123340003)
 ### [:abacus:免责声明](https://mp.weixin.qq.com/s/-dYzn02XOz1iEPh7rpsfXA)
 ### [:abacus:完整代码下载步骤[百度网盘]](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
-#### 人工服务——QQ：551705769
+###### :v:人工服务——QQ：551705769
 🚩
 ## 一、电气专栏
 ### 1.1 综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
