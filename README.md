@@ -1,3 +1,9 @@
+# [国赛A题思路及代码(持续更新中.....)](https://mbd.pub/o/bread/mbd-ZJ6Tk59q)
+
+# [国赛B题思路及代码(持续更新中.....)](https://mbd.pub/o/bread/mbd-ZJ6Tk59p)
+
+# [国赛C题思路及代码(持续更新中.....)](https://mbd.pub/o/bread/mbd-ZJ6Tkp1w)
+
 
 # :muscle:专栏目录：
 #### :1st_place_medal:1 电气专栏:a:
