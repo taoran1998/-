@@ -1,9 +1,9 @@
 
-# [国赛A题思路及代码{持续更新中.....}](https://mbd.pub/o/bread/mbd-ZJ6Tk59q)
+# [国赛A题思路及代码【持续更新中.....】](https://mbd.pub/o/bread/mbd-ZJ6Tk59q)
 
-# [国赛B题思路及代码{持续更新中.....}](https://mbd.pub/o/bread/mbd-ZJ6Tk59p)
+# [国赛B题思路及代码【持续更新中.....】](https://mbd.pub/o/bread/mbd-ZJ6Tk59p)
 
-# [国赛C题思路及代码{持续更新中.....}](https://mbd.pub/o/bread/mbd-ZJ6Tkp1w)
+# [国赛C题思路及代码【持续更新中.....】](https://mbd.pub/o/bread/mbd-ZJ6Tkp1w)
 
 
 # :muscle:专栏目录：
@@ -33,7 +33,6 @@
 
 
 ### :3rd_place_medal:欢迎您的到来:
-###### :v:人工服务——QQ：551705769
 ###### QQ邮箱：2166504845@qq.com  （如有侵权/违权/违规请告知，我们会尽快删除，谢谢）
 #### [:v:微信公众号](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
 ![image](https://github.com/taoran1998/-/blob/main/image.png)
