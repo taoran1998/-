@@ -136,7 +136,7 @@
 ##### [参与辅助服务的用户侧储能优化配置及经济分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1481b16888.pg1)
 ##### [【EI复现】参与调峰的储能系统配置方案及经济性分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1493b38888.pg1)
 ##### [【EI复现】一种建筑集成光储系统规划运行综合优化方法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2409b23888.pg1)
-##### [【电网技术论文完美复现】基于阶梯碳交易的含P2G-CCS耦合和燃气掺氢的虚拟电厂优化调度（Matlab代码复现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2245b28888.pg1)
+##### [【EI复现】基于阶梯碳交易的含P2G-CCS耦合和燃气掺氢的虚拟电厂优化调度（Matlab代码复现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2245b28888.pg1)
 ##### [【调峰】储能辅助电力系统调峰的容量需求研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1845b9999.pg1)
 ##### [【一次调频】考虑储能电池参与一次调频技术经济模型的容量配置方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1846b16888.pg1)
 ##### [【集群划分】基于kmeans的电压调节的集群划分【IEEE33节点】](https://bs.97ta.xyz/p.php?8tp=t3.9681a1715b13888.pg1)
