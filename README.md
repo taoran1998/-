@@ -1,3 +1,11 @@
+# [【2023华为杯A题】WLAN网络信道接入机制建模（代码、思路.....)持续更新中.....](https://mbd.pub/o/bread/ZJ6Ylp9u)
+# [【2023华为杯B题】DFT类矩阵的整数分解逼近（思路及代码下载)持续更新中....](https://mbd.pub/o/bread/ZJ6Ylp9x)
+# [【 2023华为杯C题】大规模创新类竞赛评审方案研究（思路、代码......）持续更新中.....](https://mbd.pub/o/bread/ZJ6Ylp9y)
+# [【2023华为杯D题】区域双碳目标与路径规划研究(思路、代码下载）持续更新中....](https://mbd.pub/o/bread/ZJ6Ylp9p)
+# [【2023华为杯E题】出血性脑卒中临床智能诊疗建模 代码、思路持续更新中.....](https://mbd.pub/o/bread/ZJ6Ylp9s)
+# [【2023华为杯F题】强对流降水临近预报（Python&Matlab代码分享）持续更新中.....](https://mbd.pub/o/bread/ZJ6Yl5Zp)
+
+
 
 # :muscle:专栏目录：
 #### :1st_place_medal:1 电气专栏:a:
