@@ -167,6 +167,7 @@
 ##### [基于分时电价策略的家庭能量系统优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a759b3665.pg1)
 ##### [【需求侧响应】综合能源中多种需求响应——弹性电价、可平移需求响应及可削减需求响应研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2413b12888.pg1)
 ##### [【价格型需求响应】基于Logistic函数的负荷转移率模型需求响应研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a760b4566.pg1)
+##### [【需求侧响应】综合能源中多种需求响应——弹性电价、可平移及可削减研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2579b13888.pg1)
 ##### [【需求响应】基于数据驱动的需求响应优化及预测研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a886b8888.pg1)
 ##### [基于数据驱动的智能空调系统需求响应可控潜力评估研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1211b9999.pg1)
 ##### [分时电价环境下用户负荷需求响应分析方法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a761b6666.pg1)
@@ -603,8 +604,11 @@
 🌟
 ### 1.10 Simulink专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+##### [基于LADRC自抗扰控制的VSG三相逆变器预同步并网控制策略（Simulink仿真实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2576b23888.pg1)
+##### [基于VCO的OTA稳定性分析的零交叉时差模型研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2578b23888.pg1)
 ##### [不平衡电网条件下基于变频器DG操作的多目标优化研究（Matlab代码&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2099b23888.pg1)
 ##### [基于可再生能源的微电网研究（Simulink）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1606b13888.pg1)
+##### [飞轮储能系统的建模与Simulink仿真（永磁同步电机作为飞轮驱动电机）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2577b16888.pg1)
 ##### [并网光伏发电系统（simulink仿真）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1607b8888.pg1)
 ##### [分布式和可再生系统建模（simulink）](https://ttaozhi.com/t/p.html?id=7PpFSzjGIa)
 ##### [电力系统——基于10机39节点的电力系统仿真（Matlab、Simulink）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1608b13888.pg1)
