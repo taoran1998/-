@@ -92,6 +92,7 @@
 ##### [【ADMM、碳排放】基于分布式ADMM算法的考虑碳排放交易的电力系统优化调度研究【IEEE6节点、IEEE30节点、IEEE118节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1843b13888.pg1)
 ##### [基于多时间尺度滚动优化的多能源微网双层调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a724b11999.pg1)
 ##### [基于主从博弈理论的共享储能与综合能源微网优化运行研究(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a725b8888.pg1)
+##### [基于合作博弈的综合能源系统电-热-气协同优化运行策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2580b16888.pg1)
 ##### [基于共享储能电站的工业用户日前优化经济调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a726b9999.pg1)
 ##### [综合能源系统电压稳定研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a727b4566.pg1)
 ##### [计及风光不确定性的基于IGDT的综合能源系统优化调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a728b8888.pg1)
@@ -121,6 +122,7 @@
 ##### [平抑风电波动的电-氢混合储能容量优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1717b16888.pg1)
 ##### [基于多场景的考虑虑热网网损的太阳能消纳能力评估研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZJuXlJxv)
 ##### [多区域综合能源系统热网建模及系统运行优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1483b16888.pg1)
+##### [基于合作博弈的综合能源系统电-热-气协同优化运行策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2580b16888.pg1)
 ##### [考虑碳交易机制的园区综合能源系统电热协同运行优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a740b3999.pg1)
 ##### [基于粒子群优化算法的冷热电联供型综合能源系统运行优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a741b9999.pg1)
 🚩
