@@ -72,6 +72,7 @@
 ##### [基于非合作博弈的风-光-氢微电网容量优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a945b9999.pg1)
 ##### [【电网技术论文完美复现】基于阶梯碳交易的含P2G-CCS耦合和燃气掺氢的虚拟电厂优化调度（Matlab代码复现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2245b28888.pg1)
 ##### [【EI复现】基于元模型优化算法的主从博弈多虚拟电厂动态定价和能量管理(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2593b16888.pg1)
+##### [【EI复现】梯级水光互补系统最大化可消纳电量期望短期优化调度模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2599b18888.pg1)
 ##### [基于多目标粒子群优化算法的冷热电联供型综合能源系统运行优化(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a712b9999.pg1)
 ##### [综合能源系统中基于电转气和碳捕集系统的热电联产建模与优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1271b15888.pg1)
 ##### [基于储能电站服务的冷热电多微网系统双层优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a713b9999.pg1)
@@ -141,6 +142,7 @@
 ##### [【EI复现】基于元模型优化算法的主从博弈多虚拟电厂动态定价和能量管理(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2593b16888.pg1)
 ##### [【EI复现】一种建筑集成光储系统规划运行综合优化方法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2409b23888.pg1)
 ##### [【EI复现】基于阶梯碳交易的含P2G-CCS耦合和燃气掺氢的虚拟电厂优化调度（Matlab代码复现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2245b28888.pg1)
+##### [【EI复现】梯级水光互补系统最大化可消纳电量期望短期优化调度模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2599b18888.pg1)
 ##### [【调峰】储能辅助电力系统调峰的容量需求研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1845b9999.pg1)
 ##### [【一次调频】考虑储能电池参与一次调频技术经济模型的容量配置方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1846b16888.pg1)
 ##### [【集群划分】基于kmeans的电压调节的集群划分【IEEE33节点】](https://bs.97ta.xyz/p.php?8tp=t3.9681a1715b13888.pg1)
@@ -163,6 +165,7 @@
 ##### [基于激励的需求响应计划下弹性微电网的短期可靠性和经济性评估（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a754b8888.pg1)
 ##### [需求响应|动态冰蓄冷系统与需求响应策略的优化研究（Matlab代码实现）+碳排放流（Matlab代码实现）](https://mbd.pub/o/bread/Y52Um5hv)
 ##### [【光伏集群、需求响应】市场模式下光伏用户群的电能共享与需求响应模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2096b18888.pg1)
+##### [【EI复现】梯级水光互补系统最大化可消纳电量期望短期优化调度模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2599b18888.pg1)
 ##### [计及需求响应和电能交互的多主体综合能源系统主从博弈优化调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2091b23888.pg1)
 ##### [【需求响应】基于数据驱动的需求响应优化及预测研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a756b9999.pg1)
 ##### [考虑区域多能源系统集群协同优化的联合需求侧响应模型(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2288b18888.pg1)
@@ -231,6 +234,7 @@
 ##### [平抑风电波动的电-氢混合储能容量优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1717b16888.pg1)
 ##### [【水光互补优化调度】基于非支配排序遗传算法的多目标水光互补优化调度（Matlab代码实现）](https://mbd.pub/o/bread/ZJyWlJ1w)
 ##### [光和储能结合模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a784b6666.pg1)
+##### [【EI复现】梯级水光互补系统最大化可消纳电量期望短期优化调度模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2599b18888.pg1)
 ##### [风电最大化消纳的热电联产机组联合优化控制(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a785b9999.pg1)
 
 ##### [【纳什博弈、ADMM】基于纳什博弈和交替方向乘子法的多微网主体能源共享研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1599b18888.pg1)
@@ -610,6 +614,7 @@
 ### 1.10 Simulink专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [基于LADRC自抗扰控制的VSG三相逆变器预同步并网控制策略（Simulink仿真实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2576b23888.pg1)
+##### [光伏系统MPPT、恒功率控制切换Simulink仿真](https://mbd.pub/o/bread/ZZWZmJts)
 ##### [基于VCO的OTA稳定性分析的零交叉时差模型研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2578b23888.pg1)
 ##### [不平衡电网条件下基于变频器DG操作的多目标优化研究（Matlab代码&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2099b23888.pg1)
 ##### [基于可再生能源的微电网研究（Simulink）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1606b13888.pg1)
