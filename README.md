@@ -371,6 +371,7 @@
 ##### [基于麻雀搜索算法（SSA）优化长短期记忆神经网络参数SSA-LSTM冷、热、电负荷预测（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a843b7888.pg1)
 ##### [【CNN-BiLSTM-attention】基于高斯混合模型聚类的风电场短期功率预测方法（Python&matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2093b18888.pg1)
 ##### [基于CNN-GRU-Attention混合神经网络的负荷预测方法（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a844b7666.pg1)
+##### [【CNN-GRU-Attention】基于卷积神经网络和门控循环单元网络结合注意力机制的多变量回归预测研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2699b8888.pg1)
 ##### [基于Adam算法优化GRU神经网络的短期负荷预测（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a845b5666.pg1)
 ##### [基于VMD-CPA-KELM-IOWAl-CSA-LSSVM碳排放的混合预测模型研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1944b18888.pg1)
 ##### [基于CNN-Lstm负荷预测（Python代码实现）](https://ttaozhi.com/t/p.html?id=bySKd0dz5O)
