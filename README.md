@@ -9,7 +9,7 @@
 ###### 🚩:+1:1.7 电力系统潮流和最优潮流:100:
 ###### 🚩:+1:1.8 配电网、分布式能源的选址与定容系列:100:
 ###### 🚩:+1:1.9 机组组合、电能质量:100:
-###### 🚩:+1:1.10 Simulink专栏:100:
+###### 🚩:+1:1.10 电气Simulink专栏:100:
 ###### 🚩:+1:1.11 电气期刊论文数据: :1234:
 ###### 🚩2 智能算法【单目标、多目标、改进算法】、优化调度专栏:100:
 ###### 🚩3 机器学习、神经网络预测与分类专栏
@@ -29,7 +29,6 @@
 ###### 联系方式——QQ：551705769
 ###### QQ邮箱：2166504845@qq.com  （如有侵权/违权/违规请告知，我们会尽快删除，谢谢）
 #### [:v:微信公众号——荔枝科研社](https://mp.weixin.qq.com/s?__biz=Mzk0MDMzNzYwOA==&mid=2247491847&idx=2&sn=d449e1a5679b882e3bc2da38ee33bb31&chksm=c2e191a0f59618b6387706b5b7baa94d56deab19bb21b951ad6502774c2e442c8836d363e63f#rd)
-![image](https://github.com/taoran1998/-/blob/main/image.png)
 ##### [:+1:<1>Matlab代码运行基础文章讲解](https://blog.csdn.net/weixin_46039719/article/details/126939450)
 ##### [:+1:<2>yalmip和cplex安装步骤(Matlab)](https://blog.csdn.net/weixin_46039719/article/details/126352221)
 ##### [:+1:<3>最详细matlab 2018a安装教程步骤：：](https://blog.csdn.net/weixin_46039719/article/details/123340003)
@@ -112,6 +111,7 @@
 ##### [【电力系统综合能源】“双碳"背景下|综合能源系统中的经济-二氧化碳排放协调最优调度和敏感性分析研究（Matlab代码实现](https://bs.97ta.xyz/p.php?8tp=t4.9681a731b9999.pg1)
 ##### [考虑区域多能源系统集群协同优化的联合需求侧响应模型(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2288b18888.pg1)
 ##### [【二阶锥规划】考虑气电联合需求响应的气电综合能源配网系统协调优化运行【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1124b9999.pg1)
+##### [阶梯碳下考虑 P2G-CCS 与供需灵活响应的 IES 优化调度(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2922b8888.pg1)
 ##### [不平衡电网条件下基于变频器DG操作的多目标优化研究（Matlab代码&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2099b23888.pg1)
 ##### [考虑特性分布的储能电站接入的电网多时间尺度源储荷协调调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a732b9999.pg1)
 ##### [含电动汽车的区域综合能源系统优化调度研究(Matlab代码实现)](https://bs.97ta.xyz/p.php?8tp=t3.9681a1596b9999.pg1)
@@ -159,6 +159,7 @@
 ##### [用于平抑可再生能源功率波动的储能电站建模及评价（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1125b9999.pg1)
 ##### [参与辅助服务的用户侧储能优化配置及经济分析（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1604b16888.pg1)
 ##### [基于雨流计数法的源-荷-储双层协同优化配置研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1598b18888.pg1)
+##### [阶梯碳下考虑 P2G-CCS 与供需灵活响应的 IES 优化调度(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2922b8888.pg1)
 ##### [【压缩空气储能】非补燃压缩空气储能系统集成的零碳排放综合能源优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2094b16888.pg1)
 ##### [考虑实时市场联动的电力零售商鲁棒定价策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a749b11999.pg1)
 ##### [基于条件风险价值CVaR的微网动态定价与调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2109b18888.pg1)
@@ -297,6 +298,7 @@
 ##### [基于 V2G 技术的电动汽车实时调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a814b5666.pg1)
 ##### [V2G模式下含分布式能源网优化运行研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1054b8888.pg1)
 ##### [电动汽车充电站的最优选址和定容【两种方法】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a815b8888.pg1)
+##### [不同类型电动汽车充电负荷蒙特卡洛法模拟（常规充电、快速充电、更换电池）（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2917b16888.pg1)
 ##### [考虑交通网络流量的电动汽车充电站规划【IEEE33节点】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a976b6666.pg1)
 ##### [【电动车】基于多目标优化遗传算法NSGAII的峰谷分时电价引导下的电动汽车充电负荷优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a816b6666.pg1)
 ##### [【SCI电气】考虑不同充电需求的电动汽车有序充电调度方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1264b28888.pg1)
@@ -375,6 +377,7 @@
 ##### [【风电预测】考虑预测误差不确定性的风电预测研究（matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a943b9999.pg1)
 ##### [分布式光伏发电计及气象因子及出力预测方法研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a841b6666.pg1)
 ##### [车-电-路网时空分布负荷预测研究（Matlab代码）](https://bs.97ta.xyz/p.php?8tp=t3.9681a842b18888.pg1)
+##### [基于LSTM-Adaboost的电力负荷预测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2915b4566.pg1)
 ##### [【PSO-LSTM】基于PSO优化LSTM网络的电力负荷预测（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1491b13888.pg1)
 ##### [【SSA-LSTM】基于SSA-LSTM预测研究（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1474b10888.pg1)
 ##### [基于麻雀搜索算法（SSA）优化长短期记忆神经网络参数SSA-LSTM冷、热、电负荷预测（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a843b7888.pg1)
@@ -623,13 +626,16 @@
 ##### [【电能质量扰动】基于ML和DWT的电能质量扰动分类方法研究（Matlab实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1943b13888.pg1)
 ##### [【扰动识别】S变换电能质量扰动识别（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1595b16888.pg1)
 🌟
-### 1.10 Simulink专栏
+### 1.10 电气Simulink专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
 ##### [基于LADRC自抗扰控制的VSG三相逆变器预同步并网控制策略（Simulink仿真实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2576b23888.pg1)
 ##### [光伏系统MPPT、恒功率控制切换Simulink仿真](https://mbd.pub/o/bread/ZZWZmJts)
 ##### [基于VCO的OTA稳定性分析的零交叉时差模型研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2578b23888.pg1)
 ##### [不平衡电网条件下基于变频器DG操作的多目标优化研究（Matlab代码&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2099b23888.pg1)
+##### [光伏储能虚拟同步发电机并网仿真模型(Simulink仿真实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2808b16888.pg1)
+##### [光伏储能虚拟同步发电机VSG控制仿真模型（Simulink仿真）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2807b16888.pg1)
 ##### [基于可再生能源的微电网研究（Simulink）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1606b13888.pg1)
+##### [基于一致性理论的孤岛微电网分布式控制策略研究(Simulink仿真实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2742b26888.pg1)
 ##### [飞轮储能系统的建模与Simulink仿真（永磁同步电机作为飞轮驱动电机）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2577b16888.pg1)
 ##### [并网光伏发电系统（simulink仿真）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1607b8888.pg1)
 ##### [分布式和可再生系统建模（simulink）](https://ttaozhi.com/t/p.html?id=7PpFSzjGIa)
@@ -644,7 +650,7 @@
 ##### [【发电厂】发电厂模型验证应用于电网事件在线性能监测【相量测量单元 （PMU） 数据对电网事件的在线性能监控】研究（Matlab&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2127b23888.pg1)
 🌟
 ### 1.11 电气期刊论文数据
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [【电气数据】光伏数据](https://mbd.pub/o/bread/Y56am5xy)
 ##### [【数据下载】光伏数据（电气期刊论文）](https://mbd.pub/o/bread/Y56am5xy)
 ##### [【电气数据】风电数据](https://mbd.pub/o/bread/Y56am5xw)
@@ -657,7 +663,7 @@
 
 🌟
 # 二、智能优化算法、优化调度专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ## 2.1 单目标系列
 ##### [【单目标优化算法】杂草优化算法（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZdv)
 ##### [【单目标优化算法】蜣螂优化算法（Dung beetle optimizer，DBO）（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZds)
@@ -671,7 +677,7 @@
 ##### [加权黑猩猩优化算法（WChOA）（Matlab代码实现）【与ChOA、PSO、WOA、BH、ALO、GA和GWO算法比较](https://mbd.pub/o/bread/mbd-Y5uamJZy)
 
 ## 2.2 改进单目标系列
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [【改进粒子群优化算法】增强型二元粒子群优化 （BPSO）算法【具有 6 个新的传递函数】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a914b4566.pg1)
 ##### [【改进灰狼优化算法】混沌灰狼优化算法(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a915b4666.pg1)
 ##### [基于改进莱维飞行和混沌映射的粒子群优化算法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2351b13888.pg1)
@@ -684,7 +690,7 @@
 ##### [基于遗传算法和布谷鸟搜索优化算法的特征选择（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a920b6666.pg1)
 
 ## 2.3 多目标系列
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [多目标萤火虫优化算法（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52UlZtp)
 ##### [多目标Jaya优化算法（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52TlJ1w)
 ##### [多目标粘液霉菌算法（Matlab代码实现）](https://mbd.pub/o/bread/mbd-YpqYlZhp)
@@ -692,12 +698,12 @@
 ##### [NSGA-III优化算法算法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a921b4566.pg1)
 
 ## 2.4 优化调度
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [【优化调度】基于改进遗传算法的公交车调度排班优化的研究与实现（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1438b9999.pg1)
 ##### [基于模拟退火优化算法求解船舶优化调度问题（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a923b5666.pg1)
 
 # 三、机器学习、神经网络预测与分类专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [基于多尺度集成极限学习机回归（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5uclZtt)
 ##### [基于随机森林实现特征选择降维及回归预测（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a924b6666.pg1)
 ##### [随机分布式延迟PSO（RODDPSO）+K-Means算法（Python代码实现）](https://mbd.pub/o/bread/Y5uUm5Zx)
@@ -729,7 +735,7 @@
 
 
 # 四、路径规划、机器人、背包问题专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [使用蚁群优化 （ACO） 解决背包问题（Matlab代码实现）](https://mbd.pub/o/bread/Y56bkpZx)
 ##### [基于蚁群算法的车辆路径规划问题的研究（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlZlt)
 ##### [基于麻雀优化算法的路径优化问题（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5qZmJ9x)
@@ -750,7 +756,7 @@
 ##### [【无人机】四旋翼飞行器控制、路径规划和轨迹优化（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5qWm5hw)
 
 # 五、车间调度、车辆调度专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [【车间调度】基于GA/PSO/SA/ACO/TS优化算法的车间调度比较（Matlab代码实现）](https://mbd.pub/o/bread/Y5aak5Zx)
 ##### [基于遗传算法的柔性车间调度优化（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5ublpls)
 ##### [基于多动作深度强化学习的柔性车间调度研究（Python代码实现）](https://mbd.pub/o/bread/ZJWTm59x)
@@ -772,7 +778,7 @@
 ##### [基于改进模因算法的考虑工人安排的分布式柔性作业车间调度问题（Matlab代码实现）](https://mbd.pub/o/bread/Y52amJZs)
 
 # 六、无人机、无人车
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [【无人机】四轴无人机的轨迹进行可视化和动画处理（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5aakplq)
 ##### [基于改进粒子群优化算法的UAV三维路径规划研究（Matlab代码实现）](https://mbd.pub/o/bread/Y5ublphv)
 ##### [改进粒子滤波的无人机三维航迹预测方法(Matlab代码实现)](https://mbd.pub/o/bread/ZJuVlZhp)
@@ -793,15 +799,12 @@
 ##### [【无人机】四旋翼飞行器目标分配、全局路径规划和局部路径规划（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5qWm5xs)
 
 # 七、图片处理专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [基于改进萤火虫算法的图像分割的应用（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5yXm55q)
 
 
-
-
-
 # 八、信号处理、雷达、灵敏性专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [使用傅里叶级数展开法从谐波的和中产生方波（Matlab代码实现）](https://mbd.pub/o/bread/Y56bkpZs)
 ##### [ECG信号处理——包括基本波检测、信号去噪、信号重建度量（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52bl5ls)
 ##### [【信号处理】机会信号基于RPS和RPS全球导航卫星定位（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y52bk5dx)
@@ -838,14 +841,14 @@
 ##### [【故障诊断】用于轴承故障诊断的候选故障频率优化克改进包络频谱研究（Matlab代码实现）](https://mbd.pub/o/bread/ZJaTlpdy)
 
 # 十、语音处理专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [语音处理(Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlJ9p)
 ##### [基于K近邻分类算法的语音情感识别（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlJ9q)
 
 
 
 # 十一、物理应用专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
 ##### [基于鹰优化算法和粒子群优化算法结合焊接梁设计，拉伸/压缩，压力容器，悬臂梁设计的应用（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlJ9s)
 ##### [使用x射线与大块材料中原子相互作用的基本理论模拟相对强度XRD图案（Matlab代码实现）](https://mbd.pub/o/bread/Y56Vlplp)
 ##### [使用标量衍射理论和菲涅耳和弗劳恩霍夫衍射的衍射对波动光学进行建模（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Vkp1v)
@@ -853,4 +856,4 @@
 ##### [热交换器及一维平行流换热器分析（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlJ9v)
 ##### [列车-轨道-桥梁交互仿真研究（Matlab代码实现）](https://mbd.pub/o/bread/ZJuVlJ9u)
 # 十二、其他专栏
-### CSDN没找到的资源，可能没上传上来，需要的话联系客服下载，QQ：551705769
+### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
