@@ -34,7 +34,7 @@
 ##### [:+1:<3>最详细matlab 2018a安装教程步骤：：](https://blog.csdn.net/weixin_46039719/article/details/123340003)
 ### [:+1:免责声明](https://mp.weixin.qq.com/s/-dYzn02XOz1iEPh7rpsfXA)
 ### [:+1:完整代码下载步骤[百度网盘]](https://mp.weixin.qq.com/s/7njavPJqj0Ab_CINHsDanw)
-### [收藏|星标|粉丝福利|全网最全电力系统代码|永久更新](https://mp.weixin.qq.com/s/GW4hFlFknvZtqW8etsy7pw)
+## [收藏|星标|粉丝福利|全网最全电力系统代码|永久更新](https://mp.weixin.qq.com/s/GW4hFlFknvZtqW8etsy7pw)
 🚩
 ## 一、电气专栏
 ### 1.1 综合能源、电力市场、虚拟电厂、需求响应、鲁棒优化系列
@@ -49,7 +49,7 @@
 ##### [【机会约束、鲁棒优化】具有排放感知型经济调度中机会约束和鲁棒优化研究【IEEE6节点、IEEE118节点算例】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1590b13888.pg1)
 ##### [【鲁棒优化、机会约束】不确定风功率接入下电 - 气互联系统的协同经济调度(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2108b16888.pg1)
 ##### [【鲁棒优化、机会约束】具有分布鲁棒联合机会约束的能源和储备调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a1475b16888.pg1)
-##### [【鲁棒优化、大M法、C&CG算法】计及风、光、负荷不确定性两阶段鲁棒优化（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1184b13888.pg1)
+##### [【鲁棒优化、大M法、C&CG算法】计及风、光、负荷不确定性两阶段鲁棒优化（Matlab代码实现）](https://mbd.pub/o/bread/ZJqZlZ5y)
 ##### [基于线性准则的考虑风力发电不确定性的分布鲁棒优化机组组合（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2101b9888.pg1)
 ##### [【鲁棒优化】具有可再生能源和储能的区域微电网的最优运行:针对不确定性的鲁棒性和非预测性解决方案（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a1938b18888.pg1)
 ##### [分布鲁棒优化研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a716b5666.pg1)
@@ -679,6 +679,7 @@
 🌟
 ### 1.10 电气Simulink专栏
 ### CSDN没找到的资源，可能没上传上来，需要的话点击右边链接搜索：👉👉👉[程序搜索](https://mp.weixin.qq.com/s/Pucd4pHOY1jY_vX9celgMg)
+### 👉👉👉👉👉[本专栏以下全部资源全家桶全部打包优惠](https://mbd.pub/o/bread/ZZuTmpxu)
 ##### [基于LADRC自抗扰控制的VSG三相逆变器预同步并网控制策略（Simulink仿真实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2576b23888.pg1)
 ##### [光伏系统MPPT、恒功率控制切换Simulink仿真](https://mbd.pub/o/bread/ZZWZmJts)
 ##### [光伏并网逆变器低电压穿越技术研究（Simulink仿真）](https://bs.97ta.xyz/p.php?8tp=t4.9681a3082b6888.pg1)
@@ -698,7 +699,10 @@
 ##### [微电网（风、光、储能、需求响应）【Simulink 仿真实现】](https://bs.97ta.xyz/p.php?8tp=t2.9681a1608b13888.pg1)
 ##### [电动汽车双向V2G和G2V（Simulink）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2112b10888.pg1)
 ##### [电力系统IEEE33节点Simulink仿真研究（Matlab实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a2111b10888.pg1)
+##### [三相PWM整流器有限集模型预测电流控制Simulink仿真模型](https://bs.97ta.xyz/p.php?8tp=t4.9681a3228b13888.pg1)
 ##### [【三相STATCOM】使用D-Q控制的三相STATCOM技术【三相VSI STATCOM为R-L负载提供无功功率】（Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a2097b23888.pg1)
+##### [混合储能系统 5WM风电永磁直驱 1200V风电并网(Simulink仿真实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a3219b7998.pg1)
+##### [光伏储能直流系统MATLAB仿真（PV光伏阵列+Boost DCDC变换器+负载+双向DCDC变换器+锂离子电池系统）](https://bs.97ta.xyz/p.php?8tp=t2.9681a3212b12888.pg1)
 ##### [三相光伏电站(Simulink实现)](https://bs.97ta.xyz/p.php?8tp=t4.9681a2113b13888.pg1)
 ##### [【无功优化】电网故障下分布式能源系统多目标优化[并网转换器（GCC）]（Matlab代码&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a2122b18888.pg1)
 ##### [采用SRF算法的分流有源滤波器【并联有源滤波器的仿真电路可降低谐波和无功功率】（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2124b23888.pg1)
