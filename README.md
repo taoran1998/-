@@ -237,9 +237,9 @@
 🖥️
 ### 1.2 微电网、智能电网系列
 ### 👉👉👉👉👉[本专栏全家桶打包优惠](https://mbd.pub/o/bread/ZZqYkp5v)
-##### [【微电网】基于改进粒子群算法的微电网优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1145b15000.pg1)
-##### [基于布谷鸟优化算法(CS)在微电网优化中的应用研究](https://bs.97ta.xyz/p.php?8tp=t4.9681a1714b13888.pg1)
-##### [【双层鲸鱼算法求解】基于非合作博弈的居民负荷分层调度模型（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a3083b18888.pg1)
+##### [【微电网】基于改进粒子群算法的微电网优化调度（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Vm5xx)
+##### [基于布谷鸟优化算法(CS)在微电网优化中的应用研究](https://mbd.pub/o/bread/ZpWYmJ9y)
+##### [【双层鲸鱼算法求解】基于非合作博弈的居民负荷分层调度模型（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZZqUlpdx)
 ##### [微电网经济调度（风、光、储能、柴油机、电网交互）（Matlab代码实现）](https://mbd.pub/o/bread/mbd-YpyYkp9t)
 ##### [两阶段鲁棒优化调度从入门到精通（Matlab&Python代码实现）【永久更新】](https://mbd.pub/o/bread/ZZ6WkpZs)
 ##### [【EI复现】基于深度强化学习的微能源网能量管理与优化策略研究（Python代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a3067b18888.pg1)
@@ -270,7 +270,7 @@
 ##### [考虑微网新能源经济消纳的共享储能优化配置（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t3.9681a1940b16888.pg1)
 ##### [不平衡电网条件下基于变频器DG操作的多目标优化研究（Matlab代码&Simulink实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2099b23888.pg1)
 ##### [分布式光伏消纳的微电网群共享储能配置策略研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1941b16888.pg1)
-##### [微电网调度（风、光、储能、电网交互）（Matlab&Python代码实现）【粒子群、优化器】](https://bs.97ta.xyz/p.php?8tp=t3.9681a772b8888.pg1)
+##### [微电网调度（风、光、储能、电网交互）（Matlab&Python代码实现）【粒子群、优化器】](https://mbd.pub/o/bread/mbd-YpyYkp9t)
 ##### [基于模型预测算法的混合储能微电网双层能量管理系统研究(Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a773b11999.pg1)
 ##### [基于条件风险价值CVaR的微网动态定价与调度策略（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a2109b18888.pg1)
 ##### [实时电价机制下交直流混合微网优化运行方法（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t4.9681a978b7666.pg1)
