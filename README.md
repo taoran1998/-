@@ -93,7 +93,7 @@
 ##### [基于改进鸽群优化算法的计及P2G厂站的电-气综合能源系统规划研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZZicmJdt)
 ##### [综合能源系统中基于电转气和碳捕集系统的热电联产建模与优化研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-ZZWamJlt)
 ##### [基于储能电站服务的冷热电多微网系统双层优化配置（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y5yZmZlt)
-##### [基于双层优化的综合能源系统规划研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t1.9681a714b7888.pg1)
+##### [基于双层优化的综合能源系统规划研究（Matlab代码实现）](https://mbd.pub/o/bread/mbd-Y56Xk51x)
 ##### [日前、日内两阶段需求响应热电综合能源联合调度研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a1186b13888.pg1)
 ##### [计及多能耦合的区域综合能源系统电气热能流计算研究（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a3044b8888.pg1)
 ##### [【光热电站CSP】含光热电站的热—电综合能源系统优化调度（Matlab代码实现）](https://bs.97ta.xyz/p.php?8tp=t2.9681a980b8888.pg1)
